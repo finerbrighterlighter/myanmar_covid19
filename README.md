@@ -1,5 +1,8 @@
 # Myanmar Covid19
 
+Created on Sat Mar 28 15:13:46 2020
+@author: hteza
+
 ## Novel coronavirus (nCoV)
 A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans.
 
