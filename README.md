@@ -10,7 +10,7 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 * On 30 January the WHO declared the outbreak to be a Public Health Emergency of International Concern.
 
 [Data Set](https://docs.google.com/spreadsheets/d/1-Csmn_rXTQvnkJR8tnFkQEyKBnhq8fz-YxyHidhONiI/edit?usp=sharing) <br>
-[Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html)
+[Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html) <br>
 Exponential Growth - https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
 
 # Disclaimer
