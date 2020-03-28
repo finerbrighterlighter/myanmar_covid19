@@ -6,7 +6,7 @@ Created on Sat Mar 28 15:13:46 2020
 @author: hteza
 """
 
-## source = https://www.kaggle.com/wjholst/covid-19-growth-of-virus-in-specific-countries#Corona-Growth-Patterns-in-Critical-Countries
+## source = https://jooskorstanje.com/modeling-exponential-growth-corona.html
 ## refer this for exponential formula https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
 ## Dataset - Myanmar COVID 19 Dataset by Dr. Nyein Chan Ko Ko
 
