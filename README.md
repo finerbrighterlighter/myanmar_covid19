@@ -26,7 +26,19 @@ There are two phases to the Growth,
   * the change from the linear assumption to the sigmoid curve, <br>
   * before and after passing the inflection point, <br>
   * the growth rate and the decay rates will be observed.
-  
+
+# Model of choice
+
+True exponential does not exist, but exponential growth is assumed until the inflection point has arrived. Linear Regression (Ordinary Least Squared Regression) is applied.
+
+# Next Week Prediction
+
+Although I stated next week, here I added only "3". <br>
+Since our data and history is very short right now, it is not sufficient to predict far without sacraficing. <br> 
+This currently here is a proof of concept. We shall increase the data and after that, we should pursure further analysis. <br>
+
+Natural log makes it better in terms of visualization and long term comparison, make the data look more linear. That is why I will be plotting both real and natural log line graphs.
+
  As of 27/03/2020,
  
  | Real Numbers | Natural Log |
