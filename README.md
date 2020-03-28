@@ -9,8 +9,8 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 * First cases were linked to contact with the Huanan Seafood Wholesale Market, which sold live animals.
 * On 30 January the WHO declared the outbreak to be a Public Health Emergency of International Concern.
 
-[Data Set](https://docs.google.com/spreadsheets/d/1-Csmn_rXTQvnkJR8tnFkQEyKBnhq8fz-YxyHidhONiI/edit?usp=sharing)
-Based on - https://www.kaggle.com/wjholst/covid-19-growth-of-virus-in-specific-countries#Corona-Growth-Patterns-in-Critical-Countries
+[Data Set](https://docs.google.com/spreadsheets/d/1-Csmn_rXTQvnkJR8tnFkQEyKBnhq8fz-YxyHidhONiI/edit?usp=sharing) <br>
+[Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html)
 Exponential Growth - https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
 
 # Disclaimer
@@ -31,5 +31,5 @@ There are two phases to the Growth,
  
  | Real Numbers | Natural Log |
  |-|-|
- |![](/plots/200327_real.svg)|![](/plots/200327_log.svg)|
+ |![](/plots/200327_real.png)|![](/plots/200327_log.png)|
 
