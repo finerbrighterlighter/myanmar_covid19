@@ -47,4 +47,5 @@ Natural log makes it better in terms of visualization and long term comparison, 
  | Real Numbers | Natural Log |
  |-|-|
  |![](/plots/200327_real.png)|![](/plots/200327_log.png)|
+ |![](/plots/200329_real.png)|![](/plots/200329_log.png)|
 
