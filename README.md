@@ -42,7 +42,7 @@ This currently here is a proof of concept. We shall increase the data and after 
 
 Natural log makes it better in terms of visualization and long term comparison, make the data look more linear. That is why I will be plotting both real and natural log line graphs.
 
- As of 27/03/2020,
+ As of 29/03/2020,
  
  | Real Numbers | Natural Log |
  |-|-|
