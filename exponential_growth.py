@@ -6,6 +6,9 @@ Created on Sat Mar 28 15:13:46 2020
 @author: hteza
 """
 
+# obsolete
+# will not be maintained
+
 ## source = https://jooskorstanje.com/modeling-exponential-growth-corona.html
 ## refer this for exponential formula https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
 ## Dataset - Myanmar COVID 19 Dataset by Dr. Nyein Chan Ko Ko
