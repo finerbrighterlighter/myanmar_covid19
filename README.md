@@ -50,3 +50,4 @@ Natural log makes it better in terms of visualization and long term comparison, 
  |![](/plots/200329_real.png)|![](/plots/200329_log.png)|
  |![](/plots/2020-03-30&#32;00_00_00_real.svg)|![](/plots/2020-03-30&#32;00_00_00_log.svg)|
  |![](/plots/2020-03-31&#32;00_00_00_real.svg)|![](/plots/2020-03-31&#32;00_00_00_log.svg)|
+ |![](/plots/2020-04-01&#32;00_00_00_real.svg)|![](/plots/2020-04-01&#32;00_00_00_log.svg)|
