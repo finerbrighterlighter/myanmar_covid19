@@ -55,7 +55,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  | Real Numbers | Natural Log |
  |-|-|
  |![](/plots_after_revision/2020-04-01&#32;00_00_00_real.svg)|![](/plots_after_revision/2020-04-01&#32;00_00_00_log.svg)|
- |Before|Data Revision|
+ |__**Before**__|__**Data Revision**__|
  |![](/plots/200327_real.png)|![](/plots/200327_log.png)|
  |![](/plots/200329_real.png)|![](/plots/200329_log.png)|
  |![](/plots/2020-03-30&#32;00_00_00_real.svg)|![](/plots/2020-03-30&#32;00_00_00_log.svg)|
