@@ -16,6 +16,13 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 [Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html) <br>
 Exponential Growth - https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
 
+For better understanding of Exponential Growth, please refer to the youtube Video referred above.<br>
+There are two phases to the Growth, 
+  * the exponential and the flattening,<br>
+  * the change from the linear assumption to the sigmoid curve, <br>
+  * before and after passing the inflection point, <br>
+  * the growth rate and the decay rates will be observed.
+
 # Disclaimer
 
 This currently is a proof of concept.<br> 
@@ -23,12 +30,13 @@ Myanmar Government and Ministry of Health and Sports do not provide a complete a
 A group of Myanmar young doctors committed to monitor and build a dataset of their own. <br>
 The data applied here is collected by Dr. Nyein Chan Ko Ko. <br>
 
-For better understanding of Exponential Growth, please refer to the youtube Video referred above.<br>
-There are two phases to the Growth, 
-  * the exponential and the flattening,<br>
-  * the change from the linear assumption to the sigmoid curve, <br>
-  * before and after passing the inflection point, <br>
-  * the growth rate and the decay rates will be observed.
+## Time taken to take action
+
+![](/timelines/2020-04-01&#32;00_00_00_time_for_action.svg)
+
+## Current Timeline
+
+![](/timelines/2020-04-01&#32;00_00_00_timeline.svg)
 
 # Model of choice
 
@@ -46,8 +54,13 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  | Real Numbers | Natural Log |
  |-|-|
+ |![](/plots_after_revision/2020-04-01&#32;00_00_00_real.svg)|![](/plots_after_revision/2020-04-01&#32;00_00_00_log.svg)|
+ |Before|Data Revision|
  |![](/plots/200327_real.png)|![](/plots/200327_log.png)|
  |![](/plots/200329_real.png)|![](/plots/200329_log.png)|
  |![](/plots/2020-03-30&#32;00_00_00_real.svg)|![](/plots/2020-03-30&#32;00_00_00_log.svg)|
  |![](/plots/2020-03-31&#32;00_00_00_real.svg)|![](/plots/2020-03-31&#32;00_00_00_log.svg)|
  |![](/plots/2020-04-01&#32;00_00_00_real.svg)|![](/plots/2020-04-01&#32;00_00_00_log.svg)|
+ 
+ As of 01/04/2020,
+ I went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
