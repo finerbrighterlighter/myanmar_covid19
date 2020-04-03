@@ -38,6 +38,10 @@ The data applied here is collected by Dr. Nyein Chan Ko Ko, and built upon it. <
 
 ![](/timelines/2020-04-02&#32;00_00_00_timeline.svg)
 
+## Infection Spread Trend
+
+![](/pread/2020-04-02&#32;00_00_00_spread.svg)
+
 # Model of choice
 
 True exponential does not exist, but exponential growth is assumed until the inflection point has arrived. Linear Regression (Ordinary Least Squared Regression) is applied.
