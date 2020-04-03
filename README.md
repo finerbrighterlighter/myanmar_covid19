@@ -40,7 +40,7 @@ The data applied here is collected by Dr. Nyein Chan Ko Ko, and built upon it. <
 
 ## Infection Spread Trend
 
-![](/pread/2020-04-02&#32;00_00_00_spread.svg)
+![](/spread/2020-04-02&#32;00_00_00_spread.svg)
 
 # Model of choice
 
