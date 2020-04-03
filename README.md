@@ -67,5 +67,12 @@ Natural log makes it better in terms of visualization and long term comparison, 
  |![](/plots/2020-03-31&#32;00_00_00_real.svg)|![](/plots/2020-03-31&#32;00_00_00_log.svg)|
  |![](/plots/2020-04-01&#32;00_00_00_real.svg)|![](/plots/2020-04-01&#32;00_00_00_log.svg)|
  
+ 
  As of 01/04/2020,
  I went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
+ 
+ As of 01/04/2020,
+ added case timelines
+ 
+ As of 02/04/2020,
+ added infection spread trend
