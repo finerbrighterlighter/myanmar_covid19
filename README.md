@@ -61,11 +61,7 @@ Since our data and history is very short right now, it is not sufficient to pred
 This currently here is a proof of concept. We shall increase the data and after that, we should pursure further analysis. <br>
 
 Natural log makes it better in terms of visualization and long term comparison, make the data look more linear. That is why I will be plotting both real and natural log line graphs.<br>
- 
- | Linear Scale | Logarithmic Scale |
- |-|-|
-  |![](/plots_after_revision/2020-04-04&#32;00_00_00_real.svg)|![](/plots_after_revision/2020-04-04&#32;00_00_00_log.svg)|
- 
+
  
  As of 01/04/2020,
  I went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
