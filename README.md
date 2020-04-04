@@ -61,8 +61,6 @@ Since our data and history is very short right now, it is not sufficient to pred
 This currently here is a proof of concept. We shall increase the data and after that, we should pursure further analysis. <br>
 
 Natural log makes it better in terms of visualization and long term comparison, make the data look more linear. That is why I will be plotting both real and natural log line graphs.<br>
-
- As of 01/04/2020,
  
  | Real Numbers | Natural Log |
  |-|-|
