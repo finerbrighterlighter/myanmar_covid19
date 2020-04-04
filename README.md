@@ -1,7 +1,7 @@
 # Myanmar Covid19
 
 Created on Sat Mar 28 15:13:46 2020 <br>
-@author: hteza
+@author: Htun Teza
 
 # Disclaimer
 
@@ -29,26 +29,6 @@ There are two phases to the Growth,
   * the change from the linear assumption to the sigmoid curve, <br>
   * before and after passing the inflection point, <br>
   * the growth rate and the decay rates will be observed.
-
-## Total Cases
-
-![](/case/2020-04-04&#32;00_00_00_total_cases.svg)
-
-## New Cases by day
-
-![](/case/2020-04-04&#32;00_00_00_new_cases.svg)
-
-## Infection Spread Trend
-
-![](/spread/2020-04-04&#32;00_00_00_spread.svg)
-
-## Time taken to take action
-
-![](/timelines/2020-04-04&#32;00_00_00_time_for_action.svg)
-
-## Current Timeline
-
-![](/timelines/2020-04-04&#32;00_00_00_timeline.svg)
 
 # Model of choice
 
