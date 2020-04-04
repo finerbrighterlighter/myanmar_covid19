@@ -27,8 +27,7 @@ There are two phases to the Growth,
 
 This currently is a proof of concept.<br> 
 Myanmar Government and Ministry of Health and Sports do not provide a complete and open dataset. <br>
-A group of Myanmar young doctors committed to monitor and build a dataset of their own. <br>
-The data applied here is collected by Dr. Nyein Chan Ko Ko, and built upon it. <br>
+Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports make announcement on their facebook page at 20:00, with minimum data and travel history, albeit not enough. <br>
 
 ## Total Cases
 
