@@ -3,6 +3,13 @@
 Created on Sat Mar 28 15:13:46 2020 <br>
 @author: hteza
 
+# Disclaimer
+
+This currently is a proof of concept.<br> 
+Myanmar Government and Ministry of Health and Sports do not provide a complete and open dataset. <br>
+Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports make announcement on their facebook page at 20:00, with minimum data and travel history, albeit not enough. <br>
+Here is an [awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
+
 ## Novel coronavirus (nCoV)
 A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans.
 
@@ -12,7 +19,6 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 * First cases were linked to contact with the Huanan Seafood Wholesale Market, which sold live animals.
 * On 30 January the WHO declared the outbreak to be a Public Health Emergency of International Concern.
 
-[Data Set](https://docs.google.com/spreadsheets/d/1-Csmn_rXTQvnkJR8tnFkQEyKBnhq8fz-YxyHidhONiI/edit?usp=sharing) <br>
 [Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html) <br>
 Exponential Growth - https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
 
@@ -22,13 +28,6 @@ There are two phases to the Growth,
   * the change from the linear assumption to the sigmoid curve, <br>
   * before and after passing the inflection point, <br>
   * the growth rate and the decay rates will be observed.
-
-# Disclaimer
-
-This currently is a proof of concept.<br> 
-Myanmar Government and Ministry of Health and Sports do not provide a complete and open dataset. <br>
-Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports make announcement on their facebook page at 20:00, with minimum data and travel history, albeit not enough. <br>
-Here is an [awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
 
 ## Total Cases
 
