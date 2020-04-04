@@ -30,6 +30,14 @@ Myanmar Government and Ministry of Health and Sports do not provide a complete a
 A group of Myanmar young doctors committed to monitor and build a dataset of their own. <br>
 The data applied here is collected by Dr. Nyein Chan Ko Ko, and built upon it. <br>
 
+## Total Cases
+
+![](/case/2020-04-02&#32;00_00_00_total_cases.svg)
+
+## New Cases by day
+
+![](/case/2020-04-02&#32;00_00_00_new_cases.svg)
+
 ## Time taken to take action
 
 ![](/timelines/2020-04-02&#32;00_00_00_time_for_action.svg)
