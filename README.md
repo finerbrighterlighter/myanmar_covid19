@@ -47,7 +47,7 @@ Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports ma
 
 ## Current Timeline
 
-![](/timelines/2020-04-02&#32;00_00_00_timeline.svg?)
+![](/timelines/2020-04-02&#32;00_00_00_timeline.svg#1)
 
 # Model of choice
 
