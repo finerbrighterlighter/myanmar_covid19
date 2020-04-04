@@ -38,6 +38,10 @@ The data applied here is collected by Dr. Nyein Chan Ko Ko, and built upon it. <
 
 ![](/case/2020-04-02&#32;00_00_00_new_cases.svg)
 
+## Infection Spread Trend
+
+![](/spread/2020-04-02&#32;00_00_00_spread.svg)
+
 ## Time taken to take action
 
 ![](/timelines/2020-04-02&#32;00_00_00_time_for_action.svg)
@@ -45,10 +49,6 @@ The data applied here is collected by Dr. Nyein Chan Ko Ko, and built upon it. <
 ## Current Timeline
 
 ![](/timelines/2020-04-02&#32;00_00_00_timeline.svg)
-
-## Infection Spread Trend
-
-![](/spread/2020-04-02&#32;00_00_00_spread.svg)
 
 # Model of choice
 
