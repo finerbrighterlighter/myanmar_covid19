@@ -28,6 +28,7 @@ There are two phases to the Growth,
 This currently is a proof of concept.<br> 
 Myanmar Government and Ministry of Health and Sports do not provide a complete and open dataset. <br>
 Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports make announcement on their facebook page at 20:00, with minimum data and travel history, albeit not enough. <br>
+Here is an [awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
 
 ## Total Cases
 
