@@ -77,3 +77,4 @@ Natural log makes it better in terms of visualization and long term comparison, 
 
  As of 02/04/2020,
  added total cases and daily new case bar graphs
+ 
