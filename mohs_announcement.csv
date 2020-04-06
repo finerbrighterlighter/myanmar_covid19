@@ -20,3 +20,4 @@ age,sex,travel,region,first_date,qua_date,ann_date,exp_date
 8,Female,NA,Bago,2020-03-30,2020-03-31,2020-04-02,NA
 18,Female,NA,Bago,2020-03-30,2020-03-31,2020-04-02,NA
 24,Female,United States -> South Korea -> Thailand,Yangon,2020-03-26,2020-03-26,2020-04-04,NA
+51,Female,United States -> South Korea -> Thailand,Yangon,2020-03-26,2020-04-05,2020-04-06,NA
