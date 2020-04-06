@@ -9,11 +9,10 @@ This currently is a proof of concept.<br>
 Myanmar Government and Ministry of Health and Sports do not provide a complete and open dataset. <br>
 Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports make announcement on their facebook page at 20:00 MMT (UTC+6:30), with minimum data and travel history, albeit not enough. <br>
 Reference links for announcements can be seen in **MOHS_announcement** folder. <br>
-Here is an [awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
 
-As of 4/4/2020, [this MOHS webpage](https://mohs.gov.mm/Main/content/publication/2019-ncov) uploads Situation Reports, albeit a few days late with detailed informations in..... wait for it...... PDF. I mean, of course, they aim these for general public, not the data scientists. But then they publish in English.
+As of 4/4/2020, [this MOHS webpage](https://mohs.gov.mm/Main/content/publication/2019-ncov) uploads Situation Reports, albeit a few days late with detailed informations in..... wait for it...... PDF. I mean, of course, they aim these for general public, not the data scientists. But then they publish in English. <br>
 
-Here is an [awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
+Instead, here is [an awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
 
 ## Novel coronavirus (nCoV)
 A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans.
