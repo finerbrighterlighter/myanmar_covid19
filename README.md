@@ -20,16 +20,6 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 * First cases were linked to contact with the Huanan Seafood Wholesale Market, which sold live animals.
 * On 30 January the WHO declared the outbreak to be a Public Health Emergency of International Concern.
 
-[Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html) <br>
-Exponential Growth - https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
-
-For better understanding of Exponential Growth, please refer to the youtube Video referred above.<br>
-There are two phases to the Growth, 
-  * the exponential and the flattening,<br>
-  * the change from the linear assumption to the sigmoid curve, <br>
-  * before and after passing the inflection point, <br>
-  * the growth rate and the decay rates will be observed.
-
 ## Total Cases
 
 ![](/case/2020-04-06&#32;00_00_00_total_cases.svg)
@@ -51,6 +41,16 @@ There are two phases to the Growth,
 ![](/timelines/2020-04-06&#32;00_00_00_timeline.svg)
 
 # Model of choice
+
+[Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html) <br>
+Exponential Growth - https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
+
+For better understanding of Exponential Growth, please refer to the youtube Video referred above.<br>
+There are two phases to the Growth, 
+  * the exponential and the flattening,<br>
+  * the change from the linear assumption to the sigmoid curve, <br>
+  * before and after passing the inflection point, <br>
+  * the growth rate and the decay rates will be observed.
 
 True exponential does not exist, but exponential growth is assumed until the inflection point has arrived. Linear Regression (Ordinary Least Squared Regression) is applied.
 
