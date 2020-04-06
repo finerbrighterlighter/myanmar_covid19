@@ -11,6 +11,10 @@ Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports ma
 Reference links for announcements can be seen in **MOHS_announcement** folder. <br>
 Here is an [awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
 
+As of 4/4/2020, [this MOHS webpage](https://mohs.gov.mm/Main/content/publication/2019-ncov) uploads Situation Reports, albeit a few days late with detailed informations in..... wait for it...... PDF. I mean, of course, they aim these for general public, not the data scientists. But then they publish in English.
+
+Here is an [awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
+
 ## Novel coronavirus (nCoV)
 A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans.
 
