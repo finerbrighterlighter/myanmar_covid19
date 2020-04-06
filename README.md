@@ -32,23 +32,23 @@ There are two phases to the Growth,
 
 ## Total Cases
 
-![](/case/2020-04-04&#32;00_00_00_total_cases.svg)
+![](/case/2020-04-06&#32;00_00_00_total_cases.svg)
 
 ## New Cases by day
 
-![](/case/2020-04-04&#32;00_00_00_new_cases.svg)
+![](/case/2020-04-06&#32;00_00_00_new_cases.svg)
 
 ## Infection Spread Trend
 
-![](/spread/2020-04-04&#32;00_00_00_spread.svg)
+![](/spread/2020-04-06&#32;00_00_00_spread.svg)
 
 ## Time taken to take action
 
-![](/timelines/2020-04-04&#32;00_00_00_time_for_action.svg)
+![](/timelines/2020-04-06&#32;00_00_00_time_for_action.svg)
 
 ## Current Timeline
 
-![](/timelines/2020-04-04&#32;00_00_00_timeline.svg)
+![](/timelines/2020-04-06&#32;00_00_00_timeline.svg)
 
 # Model of choice
 
@@ -64,7 +64,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  | Linear Scale | Logarithmic Scale |
  |-|-|
-  |![](/plots_after_revision/2020-04-04&#32;00_00_00_real.svg)|![](/plots_after_revision/2020-04-04&#32;00_00_00_log.svg)|
+  |![](/plots_after_revision/2020-04-06&#32;00_00_00_real.svg)|![](/plots_after_revision/2020-04-06&#32;00_00_00_log.svg)|
  
  
  As of 01/04/2020,
