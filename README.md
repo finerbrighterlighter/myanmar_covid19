@@ -46,9 +46,9 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 # Model of choice
 
 [Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html) <br>
-Exponential Growth - https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s
+[Exponential Growth best explanation](https://www.youtube.com/watch?v=Kas0tIxDvrg&t=35s) <br>
 
-For better understanding of Exponential Growth, please refer to the youtube Video referred above.<br>
+For better understanding of Exponential Growth, please refer to the youtube video referred above.<br>
 There are two phases to the Growth, 
   * the exponential and the flattening,<br>
   * the change from the linear assumption to the sigmoid curve, <br>
@@ -71,7 +71,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  
  As of 01/04/2020,
- I went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
+ went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
  
  As of 01/04/2020,
  added case timelines bar graph
