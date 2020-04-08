@@ -25,7 +25,7 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 
 ## Total Cases
 
-![](/case/08-04-2020_total_cases.svg??)
+![](/case/08-04-2020_total_cases.svg)
 
 ## New Cases by day
 
