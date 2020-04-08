@@ -5,7 +5,7 @@ Created on Sat Mar 28 15:13:46 2020 <br>
 
 # Disclaimer
 
-This currently is a proof of concept.<br> 
+This currently is a work in progress.<br> 
 Myanmar Government and Ministry of Health and Sports do not provide a complete and open dataset. <br>
 Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports make announcement on their facebook page at 20:00 MMT (UTC+6:30), with minimum data and travel history, albeit not enough. <br>
 Reference links for announcements can be seen in **MOHS_announcement** folder. <br>
