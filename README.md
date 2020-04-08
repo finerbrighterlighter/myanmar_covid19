@@ -91,4 +91,4 @@ Natural log makes it better in terms of visualization and long term comparison, 
  added total cases and daily new case bar graphs
  
 As of 08/04/2020,
-after 3 patients passed away, mortality line graph is added
+after 3 patients passed away, mortality bar plot and confirmed patient's status stacked area chart is added
