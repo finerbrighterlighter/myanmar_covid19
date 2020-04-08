@@ -37,7 +37,7 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 
 ## Mortality Rate
 
-![](/mortality/08-04-2020_exp.svg)
+![](/mortality/08-04-2020_exp.svg###)
 
 ## Infection Spread Trend
 
