@@ -29,7 +29,7 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 
 ## Confirmed Patients' Status
 
-![](/status/08-04-2020_status.svg)
+![](/status/08-04-2020_status.svg??)
 
 ## New Cases by day
 
@@ -49,7 +49,7 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 
 ## Current Timeline
 
-![](/timelines/08-04-2020_timeline.svg)
+![](/timelines/08-04-2020_timeline.svg??)
 
 # Model of choice
 
