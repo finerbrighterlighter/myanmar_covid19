@@ -25,23 +25,27 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 
 ## Total Cases
 
-![](/case/2020-04-06&#32;00_00_00_total_cases.svg)
+![](/case/08-04-2020_total_cases.svg)
 
 ## New Cases by day
 
-![](/case/2020-04-06&#32;00_00_00_new_cases.svg)
+![](/case/08-04-2020_new_cases.svg)
+
+## Mortality Rate
+
+![](/mortality/08-04-2020_exp.svg)
 
 ## Infection Spread Trend
 
-![](/spread/2020-04-06&#32;00_00_00_spread.svg)
+![](/spread/08-04-2020_spread.svg)
 
 ## Time taken to take action
 
-![](/timelines/2020-04-06&#32;00_00_00_time_for_action.svg)
+![](/timelines/08-04-2020_time_for_action.svg)
 
 ## Current Timeline
 
-![](/timelines/2020-04-06&#32;00_00_00_timeline.svg)
+![](/timelines/08-04-2020_timeline.svg)
 
 # Model of choice
 
@@ -67,7 +71,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  | Linear Scale | Logarithmic Scale |
  |-|-|
-  |![](/plots_after_revision/2020-04-06&#32;00_00_00_real.svg)|![](/plots_after_revision/2020-04-06&#32;00_00_00_log.svg)|
+  |![](/plots_after_revision/08-04-2020_real.svg)|![](/plots_after_revision/08-04-2020_log.svg)|
  
  
  As of 01/04/2020,
@@ -82,3 +86,5 @@ Natural log makes it better in terms of visualization and long term comparison, 
  As of 02/04/2020,
  added total cases and daily new case bar graphs
  
+As of 08/04/2020,
+after 3 patients passed away, mortality line graph is added
