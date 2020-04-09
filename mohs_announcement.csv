@@ -24,5 +24,5 @@ age,sex,travel,region,first_date,qua_date,ann_date,exp_date,dsc_date
 58,Female,United States,Chin,2020-03-15,2020-03-23,2020-04-09,NA,NA
 32,Male,Singapore,Yangon,2020-03-19,2020-04-08,2020-04-10,NA,NA
 55,Male,NA,Yangon,2020-04-09,2020-04-09,2020-04-10,NA,NA
-56,Female,NA,2020-04-08,2020-04-08,2020-04-10,NA,NA
-24,Female,Thailand,2020-03-20,2020-03-30,2020-04-10,NA,NA
+56,Female,NA,Yangon,2020-04-08,2020-04-08,2020-04-10,NA,NA
+24,Female,Thailand,Mon,2020-03-20,2020-03-30,2020-04-10,NA,NA
