@@ -1,12 +1,12 @@
-# Myanmar COVID-19 visualizations and exponential growth model
+# Myanmar COVID-19 : Visualizations and Exponential Growth model
 
 Created on Sat Mar 28 15:13:46 2020 <br>
 @author: Htun Teza
 
 # Disclaimer
 
-The author graduated Dentistry from University of Dental Medicine, Yangon. <br> 
-I am currently doing my masters in Data Science for Healthcare at Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine Ramathibodhi Hospital, Mahidol University. 
+The author graduated Dentistry from University of Dental Medicine, Yangon, Myanmar. <br> 
+I am currently doing my masters in Data Science for Healthcare at Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine Ramathibodhi Hospital, Mahidol University, Bangkok, Thailand. 
  <br> <br> 
 This currently is a work in progress.<br> 
  The code is still a mess. The visualizations get added when I feel like adding. <br> 
