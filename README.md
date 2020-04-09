@@ -14,6 +14,23 @@ As of 4/4/2020, [this MOHS webpage](https://mohs.gov.mm/Main/content/publication
 
 Instead, here is [an awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
 
+## ကိုရိုနာ − ၁၉
+
+ကိုရိုနာ ၁၉ ရောဂါ သည် လတ်တလော အသက်ရှူလမ်းကြောင်းဆိုင်ရာ ရောဂါ ကိုရိုနာဗိုင်းရပ်စ် 2 (SARS-CoV-2) ကြောင့် ဖြစ်ပွားနိုင်သော ကူးစက်ပြန့်ပွားလွယ် ရောဂါ တစ်မျိုး ဖြစ်ပါသည် ။ <br> 
+အဆိုပါရောဂါသည် ၂၀၁၉ ခုနှစ် ဒီဇင်ဘာလတွင် တရုတ်ပြည်သူ့သမ္မတနိုင်ငံ ဟူဘေးပြည်နယ်မြို့တော် ဝူဟန်မြို့တွင် စတင်တွေ့ရှိခဲ့ရပြီး ၂၀၁၉-၂၀၂၀ ကိုရိုနာဗိုင်းရပ်စ် ကမ္ဘာ့ကပ်ရောဂါ အခြေအနေကို ရောက်ရှိခဲ့ပါသည် ။ <br>
+
+ကမ္ဘာ့ ကျန်းမာရေး အဖွဲ့အစည်း (WHO) မှ အဆိုပါ ရောဂါအား နိုင်ငံတကာဆိုင်ရာ ပြည်သူ့ကျန်းမာရေး အရေးပေါ်အခြေအနေအဖြစ် ၂၀၂၀ ခုနှစ် ဇန်နဝါရီလ ၃၀ ရက်နေ့တွင် ကြေငြာခဲ့ပြီး ၂၀၂၀ ခုနှစ် မတ်လ ၁၁ ရက်နေ့တွင် ကမ္ဘာ့ ကပ်ရောဂါ အဖြစ် ကြေငြာခဲ့ပါသည် ။ <br>
+
+အဆိုပါ ရောဂါပိုးသည် တိရိစ္ဆာန်များတွင် သဘာဝ အလျောက် ဖြစ်ပွားတတ်သည်ဟု ယူဆကြသည် ။ <br> ရောဂါ၏ ပဏာမကို အတိအကျ မသိရသော်လည်း ၊ ၂၀၁၉ ဒီဇင်ဘာလတွင် တွေ့ရှိရမှုမှာ လူအချင်းချင်း ကူးစက်မှုဖြင့် ပြန့်ပွားခြင်းဖြစ်သည် ။ <br>
+
+အစောဆုံး ဖြစ်ပွားမှုမှာ ၂၀၁၉ ဒီဇင်ဘာလ ၁၇ရက်တွင် တရုတ်ပြည်သူ့သမ္မတနိုင်ငံ ဝူဟန်မြို့တွင် ဖြစ်သည် ။ <br>
+The Lancelet မှ ထုတ်ဝေသော စစ်ဆေးလေ့လာမှုတွင်မူ ၄၁ယောက်အနက် အစောဆုံးဖြစ်ပွားမှုမှာ ၂၀၁၉ ဒီဇင်ဘာလ ၁ ရက်နေ့ ဖြစ်သည် ။ <br> ကမ္ဘာ့ကျန်းမာရေး အဖွဲ့ ၏ တရားဝင် ကြေငြာချက်တွင် အစောဆုံး ဖြစ်ပွားမှုမှာ ၂၀၁၉ ဒီဇင်ဘာ ၈ ရက် ဖြစ်သည် ။ <br>
+
+မြန်မာနိုင်ငံတွင် အစောဆုံး ဖြစ်ပွားမှုမှာ ၂၀၂၀ ခုနှစ် မတ်လ ၂၃ရက်နေ့ ဖြစ်သည် ။ <br>
+အမေရိကန် နိုင်ငံတွင် ရွှေပြောင်းနေထိုင်သူ ချင်းအမျိုးသားတစ်ဦးသည် ထိမ်းမြားလက်ထပ်ရန်အတွက် ၂၀၂၀ ခုနှစ် မတ်လ ၁၅ရက်နေ့ တွင် မြန်မာနိုင်ငံသို့ ပြန်လည် ဝင်ရောက်လာပါသည် ။ မြန်မာအစိုးရမှ နိုင်ငံရပ်ခြားမှ ပြန်လည်ဝင်ရောက်လာသူများကို ရက်ပိုင်းခွဲခြားနေထိုင်စေခြင်းများ သတ်မှတ်ခြင်း မတိုင်မှီ ဖြစ်သည် ။ <br>
+
+အဆိုပါ အမျိုးသားသည် ရန်ကုန် အပြည်ပြည်ဆိုင်ရာ လေဆိပ်မှာ ချင်းပြည်နယ် တီးတိန်မြို့သို့ ခရီးဆက်ခဲ့ပြီး ပြည်တွင်းတွင် ၆ရက်ကြာပြီးနောက် ရောဂါလက္ခဏာစတင်တွေ့ရှိလာရပါသည် ။ ချင်းပြည်နယ် တီးတိန်ဆေးရုံတွင် ခွဲခြားနေထိုင်စေပြီး ၂ရက်အကြာတွင် စစ်ဆေးမှုအဖြေရရှိခဲ့ပါသည် ။ ခွဲခြားနေထိုင်ခြင်း မတိုင်မှီ ၁၃၇ယောက်နှင့် ထိတွေ့မှုရှိခဲ့ပါသည် ။ <br>
+
 ## COVID-19 (Corona Virus Disease 2019)
 
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).<br> The disease was first identified in December 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic. <br>
@@ -22,37 +39,33 @@ The World Health Organization (WHO) declared the 2019–20 coronavirus outbreak 
 
 The virus is thought to be natural and have an animal origin, through spillover infection. <br> The origin is unknown but by December 2019 the spread of infection was almost entirely driven by human-to-human transmission. <br> The earliest reported infection has been unofficially reported to have occurred on 17 November 2019 in Wuhan, China. <br> A study of the first 41 cases of confirmed COVID-19, published in January 2020 in The Lancet, revealed the earliest date of onset of symptoms as 1 December 2019. <br> Official publications from the WHO reported the earliest onset of symptoms as 8 December 2019.  <br>
 
-The first reported case in Myanmar was on 23 March 2020. <br> A Chin ethnicity migrated to United States returned to Myanmar for marriage, before Myanmar government had implemented quarantine measures against foreign returnees. He landed in Yangon International Airport then continued his journey to Chin State. <br> After 8 days in country, the symptoms appeared and he was quarantined at Tedim Hospital, Chin State. After two days, the test results came back and he in fact became the first COVID-19 patient of the country, officially kickstarting the country and the people's efforts of countermeasures against the virus. <br> Before he had been quarantined, he was in contact with 137 people, the highest number until an infected French tour group, case 11,12 and 13. <br>
+The first reported case in Myanmar was on 23 March 2020. <br> On 15 March 2020, a Chin ethnicity migrated to United States returned to Myanmar for marriage, before Myanmar government had implemented quarantine measures against foreign returnees. He landed in Yangon International Airport then continued his journey to Chin State. <br> After 6 days in country, the symptoms appeared and he was quarantined at Tedim Hospital, Chin State. After two days, the test results came back and he in fact became the first COVID-19 patient of the country, officially kickstarting the country and the people's efforts of countermeasures against the virus. <br> Before he had been quarantined, he was in contact with 137 people, the highest number until an infected French tour group, case 11,12 and 13. <br>
   <br>
 Source - Wikipedia, MOHS Situation Reports <br>
 
-## ကိုရိုနာ − ၁၉
-
-
-
 ## Total Cases
 
-![](/case/08-04-2020_total_cases.svg)
+![](/case/09-04-2020_total_cases.svg)
 
 ## Confirmed Patients' Status
 
-![](/status/08-04-2020_status.svg)
+![](/status/09-04-2020_status.svg)
 
 ## New Cases by day
 
-![](/case/08-04-2020_new_cases.svg)
+![](/case/09-04-2020_new_cases.svg)
 
 ## Infection Spread Trend
 
-![](/spread/08-04-2020_spread.svg)
+![](/spread/09-04-2020_spread.svg)
 
 ## Time taken to take action
 
-![](/timelines/08-04-2020_time_for_action.svg)
+![](/timelines/09-04-2020_time_for_action.svg)
 
 ## Current Timeline
 
-![](/timelines/08-04-2020_timeline.svg)
+![](/timelines/09-04-2020_timeline.svg)
 
 ## Underlying conditions of the expired patients
 
@@ -60,7 +73,7 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Mortality Rate
 
-![](/mortality/08-04-2020_exp.svg)
+![](/mortality/09-04-2020_exp.svg)
 
 # Model of choice
 
@@ -76,17 +89,13 @@ There are two phases to the Growth,
 
 True exponential does not exist, but exponential growth is assumed until the inflection point has arrived. Linear Regression (Ordinary Least Squared Regression) is applied.
 
-# Next Week Prediction
-
-Although I stated next week, here I added only "3". <br>
-Since our data and history is very short right now, it is not sufficient to predict far without sacraficing. <br> 
-This currently here is a proof of concept. We shall increase the data and after that, we should pursure further analysis. <br>
+# Next Week Prediction (by assuming exponential growth)
 
 Natural log makes it better in terms of visualization and long term comparison, make the data look more linear. That is why I will be plotting both real and natural log line graphs.<br>
  
  | Linear Scale | Logarithmic Scale |
  |-|-|
-  |![](/plots_after_revision/08-04-2020_real.svg)|![](/plots_after_revision/08-04-2020_log.svg)|
+  |![](/plots_after_revision/09-04-2020_real.svg)|![](/plots_after_revision/09-04-2020_log.svg)|
  
  
  As of 01/04/2020,
@@ -104,5 +113,5 @@ Natural log makes it better in terms of visualization and long term comparison, 
  As of 08/04/2020,
  after 3 patients passed away, mortality bar plot and confirmed patient's status stacked area chart is added
 
- As of 08/04/2020,
+ As of 09/04/2020,
  added a radar plot to see which underlying immuno compromising conditions the expired patients have
