@@ -129,7 +129,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  added total cases and daily new case bar graphs
  
  As of 08/04/2020,
- after 3 patients passed away, mortality bar plot and confirmed patient's status stacked area chart is added
+ after 3 patients passed away, mortality bar plot and confirmed patient's status stacked area chart are added
 
  As of 09/04/2020,
  added a radar plot to see which underlying immuno compromising conditions the expired patients have
