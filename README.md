@@ -59,11 +59,11 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ![](/spread/09-04-2020_spread.svg)
 
-## Time taken to take action [^1][^2]
+## Time taken to take action 
 
 ![](/timelines/09-04-2020_time_for_action.svg)
 
-## Current Timeline [^1][^2]
+## Current Timeline 
 
 ![](/timelines/09-04-2020_timeline.svg)
 
@@ -97,9 +97,9 @@ Natural log makes it better in terms of visualization and long term comparison, 
  |-|-|
   |![](/plots_after_revision/09-04-2020_real.svg)|![](/plots_after_revision/09-04-2020_log.svg)|
  
- [^1] : My previous dataset states that case01 entered the country on 13-3-2020, while the paitent merely left United States on the day. He actually entered the country on 15-3-2020. While the dataset has been corrected, which means the previous plots, might have representations of erroneous data.
+ Footnote 1 : My previous dataset states that case01 entered the country on 13-3-2020, while the paitent merely left United States on the day. He actually entered the country on 15-3-2020. While the dataset has been corrected, which means the previous plots, might have representations of erroneous data.
  
- [^2] : case23 is the mother of case01. She entered the country on the same day as her son, which means it has been more than 14 days since her travel to overseas. While she tested positive on 9-4-2020, she has no symptoms manifesting. The visualizations consider her as overseas inflow nonetheless.
+ Footnote 2 : case23 is the mother of case01. She entered the country on the same day as her son, which means it has been more than 14 days since her travel to overseas. While she tested positive on 9-4-2020, she has no symptoms manifesting. The visualizations consider her as overseas inflow nonetheless.
  
  
  As of 01/04/2020,
