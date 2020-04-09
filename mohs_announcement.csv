@@ -1,8 +1,8 @@
 age,sex,travel,region,first_date,qua_date,ann_date,exp_date,dsc_date
-36,Male,United States,Chin,2020-03-13,2020-03-21,2020-03-23,NA,NA
+36,Male,United States,Chin,2020-03-15,2020-03-21,2020-03-23,NA,NA
 26,Male,United Kingdom,Yangon,2020-03-22,2020-03-23,2020-03-23,NA,NA
 26,Male,United Kingdom,Yangon,2020-03-21,2020-03-23,2020-03-25,NA,NA
-33,Male,United States of America,Yangon,2020-03-19,2020-03-25,2020-03-27,NA,NA
+33,Male,United States of America,Yangon,2020-03-19,2020-03-25,2020-03-27,NA,2020-04-08
 69,Male,Australia -> Singapore,Yangon,2020-03-14,2020-03-25,2020-03-27,2020-03-31,NA
 29,Male,United Kingdom,Yangon,2020-03-21,2020-03-26,2020-03-28,NA,NA
 58,Female,Switzerland,Nay Pyi Taw,2020-03-18,2020-03-26,2020-03-28,NA,2020-04-08
@@ -21,3 +21,4 @@ age,sex,travel,region,first_date,qua_date,ann_date,exp_date,dsc_date
 18,Female,NA,Bago,2020-03-30,2020-03-31,2020-04-02,NA,NA
 24,Female,United States -> South Korea -> Thailand,Yangon,2020-03-26,2020-03-26,2020-04-04,NA,NA
 51,Female,United States -> South Korea -> Thailand,Yangon,2020-03-26,2020-04-05,2020-04-06,NA,NA
+58,Female,United States,Chin,2020-03-15,2020-03-23,2020-04-09,NA,NA
