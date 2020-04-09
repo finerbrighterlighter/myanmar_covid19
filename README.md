@@ -1,4 +1,4 @@
-# Myanmar Covid19
+# Myanmar COVID-19 visualizations and exponential growth model
 
 Created on Sat Mar 28 15:13:46 2020 <br>
 @author: Htun Teza
@@ -10,18 +10,21 @@ Myanmar Government and Ministry of Health and Sports do not provide a complete a
 Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports make announcement on their facebook page at 20:00 MMT (UTC+6:30), with minimum data and travel history, albeit not enough. <br>
 Reference links for announcements can be seen in **MOHS_announcement** folder. <br>
 
-As of 4/4/2020, [this MOHS webpage](https://mohs.gov.mm/Main/content/publication/2019-ncov) uploads Situation Reports, albeit a few days late with detailed informations in<br> .....<br>  wait for it<br> ......<br>  **PDF**.<br>  I mean, of course, they aim these for general public, not the data scientists. But then they publish in English. <br>
+As of 4/4/2020, [this MOHS webpage](https://mohs.gov.mm/Main/content/publication/2019-ncov) uploads Situation Reports, albeit a few days late with detailed informations in<br> .....<br>  wait for it<br> ......<br>  **PDF**.<br>  <br>  I mean, of course, they aim these for general public, not the data scientists. But then they publish in English. <br>
 
 Instead, here is [an awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
 
-## Novel coronavirus (nCoV)
-A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans.
-
 ## COVID-19 (Corona Virus Disease 2019)
-* Caused by a SARS-COV-2 corona virus.
-* First identified in Wuhan, Hubei, China. Earliest reported symptoms reported in November 2019.
-* First cases were linked to contact with the Huanan Seafood Wholesale Market, which sold live animals.
-* On 30 January the WHO declared the outbreak to be a Public Health Emergency of International Concern.
+
+Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).<br> The disease was first identified in December 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic. <br>
+
+The World Health Organization (WHO) declared the 2019–20 coronavirus outbreak a Public Health Emergency of International Concern (PHEIC) on 30 January 2020 and a pandemic on 11 March 2020.  <br>
+
+The virus is thought to be natural and have an animal origin, through spillover infection. <br> The origin is unknown but by December 2019 the spread of infection was almost entirely driven by human-to-human transmission. <br> The earliest reported infection has been unofficially reported to have occurred on 17 November 2019 in Wuhan, China. <br> A study of the first 41 cases of confirmed COVID-19, published in January 2020 in The Lancet, revealed the earliest date of onset of symptoms as 1 December 2019. <br> Official publications from the WHO reported the earliest onset of symptoms as 8 December 2019.  <br>
+
+The first reported case in Myanmar was on 23 March 2020. <br> A Chin ethnicity migrated to United States returned to Myanmar for marriage, before Myanmar government had implemented quarantine measures against foreign returnees. He landed in Yangon International Airport then continued his journey to Chin State. <br> After 8 days in country, the symptoms appeared and he was quarantined at Tedim Hospital, Chin State. After two days, the test results came back and he in fact became the first COVID-19 patient of the country, officially kickstarting the country and the people's efforts of countermeasures against the virus. <br> Before he had been quarantined, he was in contact with 137 people, the highest number until an infected French tour group, case 11,12 and 13. <br>
+  <br>
+Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Total Cases
 
