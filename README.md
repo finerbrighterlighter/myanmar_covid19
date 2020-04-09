@@ -52,35 +52,35 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Total Cases
 
-![](/case/09-04-2020_total_cases.svg)
+![](/case/mid10-04-2020_total_cases.svg)
 
 ## Confirmed Patients' Status
 
-![](/status/09-04-2020_status.svg)
+![](/status/mid10-04-2020_status.svg)
 
 ## New Cases by day
 
-![](/case/09-04-2020_new_cases.svg)
+![](/case/mid10-04-2020_new_cases.svg)
 
 ## Infection Spread Trend
 
-![](/spread/09-04-2020_spread.svg)
+![](/spread/mid10-04-2020_spread.svg)
 
 ## Time taken to take action 
 
-![](/timelines/09-04-2020_time_for_action.svg)
+![](/timelines/mid10-04-2020_time_for_action.svg)
 
 ## Current Timeline 
 
-![](/timelines/09-04-2020_timeline.svg)
+![](/timelines/mid10-04-2020_timeline.svg)
 
 ## Underlying conditions of the expired patients
 
-![](/underlying/09-04-2020_underlying.svg)
+![](/underlying/mid10-04-2020_underlying.svg)
 
 ## Mortality Rate
 
-![](/mortality/09-04-2020_exp.svg)
+![](/mortality/mid10-04-2020_exp.svg)
 
 # Model of choice
 
@@ -102,11 +102,16 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  | Linear Scale | Logarithmic Scale |
  |-|-|
-  |![](/plots_after_revision/09-04-2020_real.svg)|![](/plots_after_revision/09-04-2020_log.svg)|
+  |![](/plots_after_revision/mid10-04-2020_real.svg)|![](/plots_after_revision/mid10-04-2020_log.svg)|
  
  Footnote 1 : My previous dataset states that case01 entered the country on 13-3-2020, while the paitent merely left United States on the day. He actually entered the country on 15-3-2020. While the dataset has been corrected, which means the previous plots, might have representations of erroneous data.
  
  Footnote 2 : case23 is the mother of case01. She entered the country on the same day as her son, which means it has been more than 14 days since her travel to overseas. While she tested positive on 9-4-2020, she has no symptoms manifesting. The visualizations consider her as overseas inflow nonetheless.
+ 
+ Footnote 3 : case24 and case27 had returned from Singapore and Thailand respectively. However their time since entry to country were more than 14 days. The visualizations consider them as overseas inflow nonetheless.
+ 
+ Footnote 4 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT to be mistitled.
+ 
  
  
  As of 01/04/2020,
