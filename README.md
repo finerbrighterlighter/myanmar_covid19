@@ -51,6 +51,10 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 
 ![](/timelines/08-04-2020_timeline.svg)
 
+## Underlying conditions of the expired patients
+
+![](/underlying/09-04-2020_underlying.svg)
+
 # Model of choice
 
 [Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html) <br>
