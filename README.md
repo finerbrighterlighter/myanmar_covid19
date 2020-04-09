@@ -59,11 +59,11 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ![](/spread/09-04-2020_spread.svg)
 
-## Time taken to take action [^1],[^2]
+## Time taken to take action [^1][^2]
 
 ![](/timelines/09-04-2020_time_for_action.svg)
 
-## Current Timeline [^1],[^2]
+## Current Timeline [^1][^2]
 
 ![](/timelines/09-04-2020_timeline.svg)
 
