@@ -7,7 +7,7 @@ Created on Sat Mar 28 15:13:46 2020 <br>
 
 The author graduated Dentistry from University of Dental Medicine, Yangon. <br> 
 I am currently doing my masters in Data Science for Healthcare at Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine Ramathibodhi Hospital, Mahidol University. 
- <br>
+ <br> <br> 
 This currently is a work in progress.<br> 
  The code is still a mess. The visualizations get added when I feel like adding. <br> 
  More importantly, some corrections have been done to the datasets which leads to inconsistencies between current and past plots. <br> 
