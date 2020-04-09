@@ -26,6 +26,10 @@ The first reported case in Myanmar was on 23 March 2020. <br> A Chin ethnicity m
   <br>
 Source - Wikipedia, MOHS Situation Reports <br>
 
+## ကိုရိုနာ − ၁၉
+
+
+
 ## Total Cases
 
 ![](/case/08-04-2020_total_cases.svg)
