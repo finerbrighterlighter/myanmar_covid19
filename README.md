@@ -35,10 +35,6 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 
 ![](/case/08-04-2020_new_cases.svg)
 
-## Mortality Rate
-
-![](/mortality/08-04-2020_exp.svg)
-
 ## Infection Spread Trend
 
 ![](/spread/08-04-2020_spread.svg)
@@ -54,6 +50,10 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 ## Underlying conditions of the expired patients
 
 ![](/underlying/09-04-2020_underlying.svg)
+
+## Mortality Rate
+
+![](/mortality/08-04-2020_exp.svg)
 
 # Model of choice
 
@@ -98,4 +98,4 @@ Natural log makes it better in terms of visualization and long term comparison, 
  after 3 patients passed away, mortality bar plot and confirmed patient's status stacked area chart is added
 
  As of 08/04/2020,
- added a radar plot to see which immuno compromising conditions have contributed to the patients' expiration
+ added a radar plot to see which underlying immuno compromising conditions the expired patients have
