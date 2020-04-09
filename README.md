@@ -66,7 +66,7 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ![](/spread/mid10-04-2020_spread.svg)
 
-## Time taken to take action 
+## Days taken to be announced positive 
 
 ![](/timelines/mid10-04-2020_time_for_action.svg)
 
