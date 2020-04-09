@@ -76,7 +76,7 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Underlying conditions of the expired patients
 
-![](/underlying/mid10-04-2020_underlying.svg)
+![](/underlying/09-04-2020_underlying.svg)
 
 ## Mortality Rate
 
