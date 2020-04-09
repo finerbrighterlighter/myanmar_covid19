@@ -5,11 +5,18 @@ Created on Sat Mar 28 15:13:46 2020 <br>
 
 # Disclaimer
 
+The author graduated Dentistry from University of Dental Medicine, Yangon. <br> 
+I am currently doing my masters in Data Science for Healthcare at Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine Ramathibodhi Hospital, Mahidol University. 
+ <br>
 This currently is a work in progress.<br> 
+ The code is still a mess. The visualizations get added when I feel like adding. <br> 
+ More importantly, some corrections have been done to the datasets which leads to inconsistencies between current and past plots. <br> 
+ <br> 
 Myanmar Government and Ministry of Health and Sports do not provide a complete and open dataset. <br>
+ <br> 
 Although in confirmation of COVID19 in Myanmar, Ministry of Health and Sports make announcement on their facebook page at 20:00 MMT (UTC+6:30), with minimum data and travel history, albeit not enough. <br>
 Reference links for announcements can be seen in **MOHS_announcement** folder. <br>
-
+ <br> 
 As of 4/4/2020, [this MOHS webpage](https://mohs.gov.mm/Main/content/publication/2019-ncov) uploads Situation Reports, albeit a few days late with detailed informations in<br> .....<br>  wait for it<br> ......<br>  **PDF**.<br>  <br>  I mean, of course, they aim these for general public, not the data scientists. But then they publish in English. <br>
 
 Instead, here is [an awesome collection](https://github.com/nyanlynntherazi/awesome-myanmar-covid19-resources) of resources, that are made by a bunch of volunteers, tech enthusiastics and non government entities. 
