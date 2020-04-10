@@ -152,9 +152,11 @@ Natural log makes it better in terms of visualization and long term comparison, 
   <br>
  The thing is when you call "today" in python, it calls for UTC today without the UTC tag.
  So "today" problem is solved by using 
+ 
  ~~~~
  pd.to_datetime("today").tz_localize("UTC").tz_convert("Asia/Yangon") )
 ~~~~
+
  The code goes 
  - I call "today"
  - I declare that "today" is in "UTC"
@@ -162,9 +164,11 @@ Natural log makes it better in terms of visualization and long term comparison, 
    <br>
  Then I need to declare the date data in the dataset as a timezone, so that I can find the difference between the two or such operations.
  They were declared using 
+ 
  ~~~~
  df["ann_date"] = pd.to_datetime(df["ann_date"].values, utc=False).tz_localize("Asia/Yangon")
  ~~~~
+ 
  The code goes 
  - That column of the dataframe is in "datetime" format
  - But the values are not "UTC"
