@@ -115,7 +115,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  Footnote 5 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
   <br>
   <br>
-  <br>
+-------------------------------
   <br>
   <br>
  ### Development Note
