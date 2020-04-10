@@ -161,10 +161,10 @@ df["ann_date"].max()
  
  ~~~~
  pd.to_datetime("today").tz_localize("UTC")
- >Timestamp('2020-04-10 16:24:45.897487+0000', tz='UTC')
+ > Timestamp('2020-04-10 16:24:45.897487+0000', tz='UTC')
  
  pd.to_datetime("today").tz_localize("UTC").tz_convert("Asia/Yangon")
- >Timestamp('2020-04-10 22:55:46.877513+0630', tz='Asia/Yangon')
+ > Timestamp('2020-04-10 22:55:46.877513+0630', tz='Asia/Yangon')
 ~~~~
 
  The code goes 
@@ -178,15 +178,15 @@ df["ann_date"].max()
  
  ~~~~
  df["ann_date"].dtype
- >datetime64[ns]
+ > datetime64[ns]
  
  df["ann_date"] = pd.to_datetime(df["ann_date"].values, utc=True)
  df["ann_date"].dtype
- >datetime64[ns, UTC]
+ > datetime64[ns, UTC]
  
  df["ann_date"] = pd.to_datetime(df["ann_date"].values, utc=False).tz_localize("Asia/Yangon")
  df["ann_date"].dtype
- >datetime64[ns, Asia/Yangon]
+ > datetime64[ns, Asia/Yangon]
  ~~~~
  
  The code goes 
