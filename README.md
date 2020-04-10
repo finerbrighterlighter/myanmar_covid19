@@ -144,13 +144,15 @@ Natural log makes it better in terms of visualization and long term comparison, 
  Somedays there are no announcement but the timelines have to keep counting so, I moved from using the last announced day 
  
  ~~~~ 
- df["ann_date"].max() 
+df["ann_date"].max() 
+ > Timestamp('2020-04-10 00:00:00')
  ~~~~ 
  
  to using today. 
  
  ~~~~ 
- pd.to_datetime["today"] 
+ pd.to_datetime("today") 
+ > Timestamp('2020-04-10 16:21:41.892917')
  ~~~~ 
  
   <br>
@@ -158,7 +160,11 @@ Natural log makes it better in terms of visualization and long term comparison, 
  So "today" problem is solved by using 
  
  ~~~~
- pd.to_datetime("today").tz_localize("UTC").tz_convert("Asia/Yangon") )
+ pd.to_datetime("today").tz_localize("UTC")
+ >Timestamp('2020-04-10 16:24:45.897487+0000', tz='UTC')
+ 
+ pd.to_datetime("today").tz_localize("UTC").tz_convert("Asia/Yangon")
+ >Timestamp('2020-04-10 22:55:46.877513+0630', tz='Asia/Yangon')
 ~~~~
 
  The code goes 
@@ -171,7 +177,16 @@ Natural log makes it better in terms of visualization and long term comparison, 
  They were declared using 
  
  ~~~~
+ df["ann_date"].dtype
+ >datetime64[ns]
+ 
+ df["ann_date"] = pd.to_datetime(df["ann_date"].values, utc=True)
+ df["ann_date"].dtype
+ >datetime64[ns, UTC]
+ 
  df["ann_date"] = pd.to_datetime(df["ann_date"].values, utc=False).tz_localize("Asia/Yangon")
+ df["ann_date"].dtype
+ >datetime64[ns, Asia/Yangon]
  ~~~~
  
  The code goes 
