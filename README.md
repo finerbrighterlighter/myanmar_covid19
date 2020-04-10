@@ -142,13 +142,17 @@ Natural log makes it better in terms of visualization and long term comparison, 
  solved the timezone conflict
     <br>
  Somedays there are no announcement but the timelines have to keep counting so, I moved from using the last announced day 
+ 
  ~~~~ 
  df["ann_date"].max() 
  ~~~~ 
+ 
  to using today. 
+ 
  ~~~~ 
  pd.to_datetime["today"] 
  ~~~~ 
+ 
   <br>
  The thing is when you call "today" in python, it calls for UTC today without the UTC tag.
  So "today" problem is solved by using 
@@ -161,7 +165,6 @@ Natural log makes it better in terms of visualization and long term comparison, 
  - I call "today"
  - I declare that "today" is in "UTC"
  - I convert the "UTC" today to "MMT" today.
-  <br>
   <br>
  Then I need to declare the date data in the dataset as a timezone, so that I can find the difference between the two or such operations.
   <br>
