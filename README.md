@@ -161,8 +161,10 @@ Natural log makes it better in terms of visualization and long term comparison, 
  - I call "today"
  - I declare that "today" is in "UTC"
  - I convert the "UTC" today to "MMT" today.
-   <br>
+  <br>
+  <br>
  Then I need to declare the date data in the dataset as a timezone, so that I can find the difference between the two or such operations.
+  <br>
  They were declared using 
  
  ~~~~
