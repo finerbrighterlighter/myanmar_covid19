@@ -87,6 +87,11 @@ Source - Wikipedia, MOHS Situation Reports <br>
 This data is based on [MOHS situation reports](https://mohs.gov.mm/Main/content/publication/2019-ncov), updated every other days,
 
 
+| per region | distribution across country |
+|-|-|
+|![](/pui/11-04-2020_pui_reg.svg)|![](/pui/11-04-2020_pui_dis.svg)|
+|![](/qua_ppl/11-04-2020_qua_ppl_reg.svg)|![](/qua_ppl/11-04-2020_qua_ppl_dis.svg)|
+|![](/qua_cen/11-04-2020_qua_cen_reg.svg)|![](/qua_cen/11-04-2020_qua_cen_dis.svg)|
 
 
 # Model of choice
