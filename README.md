@@ -82,6 +82,13 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ![](/mortality/11-04-2020_exp.svg)
 
+## Community Quarantines and People under investigations
+
+This data is based on [MOHS situation reports](https://mohs.gov.mm/Main/content/publication/2019-ncov), updated every other days,
+
+
+
+
 # Model of choice
 
 [Based on this cool person](https://jooskorstanje.com/modeling-exponential-growth-corona.html) <br>
