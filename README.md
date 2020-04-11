@@ -106,13 +106,18 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  Footnote 1 : My previous dataset states that case01 entered the country on 13-3-2020, while the paitent merely left United States on the day. He actually entered the country on 15-3-2020. While the dataset has been corrected, which means the previous plots, might have representations of erroneous data.
  
- Footnote 2 : case23 is the mother of case01. She entered the country on the same day as her son, which means it has been more than 14 days since her travel to overseas. While she tested positive on 9-4-2020, she has no symptoms manifesting. The visualizations consider her as overseas inflow nonetheless.
+ Footnote 2 : These patients tested positive. They were forign returnees, although the travel history is more than 14 days ago at the time of test confirmation. The visualizations consider her as overseas inflow nonetheless.
  
- Footnote 3 : case24 and case27 had returned from Singapore and Thailand respectively. However their time since entry to country were more than 14 days. The visualizations consider them as overseas inflow nonetheless.
+ Case | Travel History | Date of Arrival | Symptoms | Remarks
+ -|-|-|-|-
+ 23 | United States | 15-3-2020 | NA | was on quarantine since her son was tested positive
+ 24 | Singapore | 19-3-2020 | Fatigue, Cough | was not on quarantine until the symptoms
+ 27 | Thailand | 20-3-2020 | Stomach Pain | was not on quarantine until the symptoms
+ 29 | United Kingdom | 28-3-2020 | NA | was on community quarantine since he landed in the country
  
- Footnote 4 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning.
+ Footnote 3 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning.
  
- Footnote 5 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
+ Footnote 4 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
   <br>
   <br>
   <br>
