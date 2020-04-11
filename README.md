@@ -86,6 +86,9 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 This data is based on [MOHS situation reports](https://mohs.gov.mm/Main/content/publication/2019-ncov), updated every other days,
 
+### Average number of people quarantined in a center
+
+![](/qua_ppl/11-04-2020_qua_ppl_cen.svg)
 
 | per region | distribution across country |
 |-|-|
