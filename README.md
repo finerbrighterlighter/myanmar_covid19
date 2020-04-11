@@ -220,3 +220,14 @@ df["ann_date"].max()
  - But the values are not "UTC"
  - I declare that values are in "MMT"
  
+ As of 10/04/2020,
+ I personally retract the previous statement that Myanmar Government and MOHS does not supply complete and open dataset. As an outsider, I can see they are trying. Not the best of course, but as a Burmese, I am content enough to say bravo. ( I don't know, may be I have been disappointed so much in the past ). 
+ Anyhow, today I built a new dataset from the situation reports. It is for the quarantine centers and number of people quarantined and under investigation around the country. I built four visualizations in seven plots,
+ - average number of people quarantined at a centre
+ - number of people quarantined in a state or admininstrative region
+ - number of quarantine centres in a state or admininstrative region
+ - number of people under investigation in a state or admininstrative region.  
+ Line plots are the real numbers, and stacked area plots are the percentage out of the whole country. 
+   
+ Here is a non-related story.
+ Today a medical personnel is disgnosed __positive__ for COVID-19. There was a need to insert a tracheal tube for the patient (case_17) who was having laryngospasm and couldn't breath. The hospital was not supplied enough to have a video laryngoscope and Dr. Myint Myint Sein (Anaesthesiologist) made a decision to insert without her PPE for better vision. Of course, the decision was medically stupid and she knew what she was getting into. However, shit like these are always what make the burmese people get attached to Burma. The governments suck, the people are stupid, but always they are stupid for a belief and brave enough to be stupid. They meet shit head on. Shits like these, always make me embarassed I was granted the same "Dr." prefix of those people. I never had their heart. Hope she gets better. 
