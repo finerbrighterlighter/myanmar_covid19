@@ -52,35 +52,35 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Total Cases
 
-![](/case/11-04-2020_total_cases.svg)
+![](/case/12-04-2020_total_cases.svg)
 
 ## Confirmed Patients' Status
 
-![](/status/11-04-2020_status.svg)
+![](/status/12-04-2020_status.svg)
 
 ## New Cases by day
 
-![](/case/11-04-2020_new_cases.svg)
+![](/case/12-04-2020_new_cases.svg)
 
 ## Infection Spread Trend
 
-![](/spread/11-04-2020_spread.svg)
+![](/spread/12-04-2020_spread.svg)
 
 ## Days taken to be announced positive 
 
-![](/timelines/11-04-2020_time_for_action.svg)
+![](/timelines/12-04-2020_time_for_action.svg)
 
 ## Current Timeline 
 
-![](/timelines/11-04-2020_timeline.svg)
+![](/timelines/12-04-2020_timeline.svg)
 
 ## Underlying conditions of the expired patients
 
-![](/underlying/11-04-2020_underlying.svg)
+![](/underlying/12-04-2020_underlying.svg)
 
 ## Mortality Rate
 
-![](/mortality/11-04-2020_exp.svg)
+![](/mortality/12-04-2020_exp.svg)
 
 ## Community Quarantines and People under investigations
 
@@ -117,11 +117,11 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  | Linear Scale | Logarithmic Scale |
  |-|-|
-  |![](/plots_after_revision/11-04-2020_real.svg)|![](/plots_after_revision/11-04-2020_log.svg)|
+  |![](/plots_after_revision/12-04-2020_real.svg)|![](/plots_after_revision/12-04-2020_log.svg)|
  
  Footnote 1 : My previous dataset states that case01 entered the country on 13-3-2020, while the paitent merely left United States on the day. He actually entered the country on 15-3-2020. While the dataset has been corrected, which means the previous plots, might have representations of erroneous data.
  
- Footnote 2 : These patients tested positive. They were forign returnees, although the travel history is more than 14 days ago at the time of test confirmation. The visualizations consider her as overseas inflow nonetheless.
+ Footnote 2 : These patients tested positive. They were foreign returnees, although the travel history is more than 14 days ago at the time of test confirmation. The visualizations consider them as overseas inflow nonetheless.
  
  Case | Travel History | Date of Arrival | Symptoms | Remarks
  -|-|-|-|-
@@ -130,9 +130,15 @@ Natural log makes it better in terms of visualization and long term comparison, 
  27 | Thailand | 20-3-2020 | Stomach Pain | was not on quarantine until the symptoms
  29 | United Kingdom | 28-3-2020 | NA | was on community quarantine since he landed in the country
  
- Footnote 3 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning.
+ Footnote 3 : They have history of travel to high risk area, however way longer than 14 or 28 days ago at the time of test confirmation. The visualizations consider them as local spread nonetheless.
  
- Footnote 4 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
+  Case | Travel History | Date of Arrival | Symptoms | Remarks
+ -|-|-|-|-
+ 32 | People's Republic of China | Approximately January 2020 | Fever, Cough | Symptoms appear on 23-3-2020
+ 
+ Footnote 4 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
+ 
+ Footnote 5 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
   <br>
   <br>
   <br>
