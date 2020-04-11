@@ -146,7 +146,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
   <br>
  ### Development Note
  
- As of 01/04/2020,
+ As of 01/04/2020,  
  went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
  
  As of 01/04/2020,
@@ -155,16 +155,16 @@ Natural log makes it better in terms of visualization and long term comparison, 
  As of 02/04/2020,
  added infection spread trend line graph
 
- As of 02/04/2020,
+ As of 02/04/2020,  
  added total cases and daily new case bar graphs
  
- As of 08/04/2020,
+ As of 08/04/2020,  
  after 3 patients passed away, mortality bar plot and confirmed patient's status stacked area chart are added
 
- As of 09/04/2020,
+ As of 09/04/2020,  
  added a radar plot to see which underlying immuno compromising conditions the expired patients have
  
- As of 10/04/2020,
+ As of 10/04/2020,  
  solved the timezone conflict
     <br>
  Somedays there are no announcement but the timelines have to keep counting so, I moved from using the last announced day 
@@ -220,7 +220,7 @@ df["ann_date"].max()
  - But the values are not "UTC"
  - I declare that values are in "MMT"
  
- As of 10/04/2020,
+ As of 12/04/2020,  
  I personally retract the previous statement that Myanmar Government and MOHS does not supply complete and open dataset. As an outsider, I can see they are trying. Not the best of course, but as a Burmese, I am content enough to say bravo. ( I don't know, may be I have been disappointed so much in the past ). 
  Anyhow, today I built a new dataset from the situation reports. It is for the quarantine centers and number of people quarantined and under investigation around the country. I built four visualizations in seven plots,
  - average number of people quarantined at a centre
