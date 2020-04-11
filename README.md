@@ -149,10 +149,10 @@ Natural log makes it better in terms of visualization and long term comparison, 
  As of 01/04/2020,  
  went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
  
- As of 01/04/2020,
+ As of 01/04/2020,  
  added case timelines bar graph
  
- As of 02/04/2020,
+ As of 02/04/2020,  
  added infection spread trend line graph
 
  As of 02/04/2020,  
