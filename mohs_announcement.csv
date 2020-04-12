@@ -1,40 +1,40 @@
-age,sex,travel,region,first_date,qua_date,ann_date,exp_date,dsc_date
-36,Male,United States,Chin,15/3/2020 ,21/3/2020 ,23/3/2020 ,NA,NA
-26,Male,United Kingdom,Yangon,22/3/2020 ,23/3/2020 ,23/3/2020 ,NA,NA
-26,Male,United Kingdom,Yangon,21/3/2020 ,23/3/2020 ,25/3/2020 ,NA,NA
-33,Male,United States of America,Yangon,19/3/2020 ,25/3/2020 ,27/3/2020 ,NA,8/4/2020 
-69,Male,Australia -> Singapore,Yangon,14/3/2020 ,25/3/2020 ,27/3/2020 ,31/3/2020 ,NA
-29,Male,United Kingdom,Yangon,21/3/2020 ,26/3/2020 ,28/3/2020 ,NA,NA
-58,Female,Switzerland,Nay Pyi Taw,18/3/2020 ,26/3/2020 ,28/3/2020 ,NA,8/4/2020 
-60,Female,NA,Yangon,25/3/2020 ,26/3/2020 ,28/3/2020 ,NA,NA
-44,Male,Thailand,Yangon,23/3/2020 ,26/3/2020 ,29/3/2020 ,NA,NA
-45,Male,NA,Yangon,28/3/2020 ,28/3/2020 ,29/3/2020 ,NA,NA
-66,Female,France,Yangon,28/3/2020 ,28/3/2020 ,30/3/2020 ,NA,NA
-65,Male,France,Yangon,28/3/2020 ,28/3/2020 ,30/3/2020 ,NA,NA
-61,Female,France,Yangon,28/3/2020 ,28/3/2020 ,30/3/2020 ,NA,NA
-24,Male,Thailand,Shan,25/3/2020 ,28/3/2020 ,30/3/2020 ,NA,NA
-45,Female,NA,Yangon,27/3/2020 ,30/3/2020 ,30/3/2020 ,NA,NA
-63,Female,NA,Yangon,15/3/2020 ,31/3/2020 ,1/4/2020 ,8/4/2020 ,NA
-47,Male,NA,Bago,30/3/2020 ,31/3/2020 ,2/4/2020 ,8/4/2020 ,NA
-10,Male,NA,Bago,30/3/2020 ,31/3/2020 ,2/4/2020 ,NA,NA
-8,Female,NA,Bago,30/3/2020 ,31/3/2020 ,2/4/2020 ,NA,NA
-18,Female,NA,Bago,30/3/2020 ,31/3/2020 ,2/4/2020 ,NA,NA
-24,Female,United States -> South Korea -> Thailand,Yangon,26/3/2020 ,26/3/2020 ,4/4/2020 ,NA,NA
-51,Female,United States -> South Korea -> Thailand,Yangon,26/3/2020 ,5/4/2020 ,6/4/2020 ,NA,NA
-58,Female,United States,Chin,15/3/2020 ,23/3/2020 ,9/4/2020 ,NA,NA
-32,Male,Singapore,Yangon,19/3/2020 ,8/4/2020 ,10/4/2020 ,NA,NA
-55,Male,NA,Yangon,9/4/2020 ,9/4/2020 ,10/4/2020 ,NA,NA
-56,Female,NA,Yangon,8/4/2020 ,8/4/2020 ,10/4/2020 ,NA,NA
-24,Female,Thailand,Mon,20/3/2020 ,30/3/2020 ,10/4/2020 ,NA,NA
-63,Male,NA,Yangon,28/3/2020 ,28/3/2020 ,10/4/2020 ,NA,NA
-26,Male,United Kingdom,Shan,28/3/2020 ,28/3/2020 ,11/4/2020 ,NA,NA
-58,Female,NA,Yangon,8/4/2020 ,8/4/2020 ,11/4/2020 ,NA,NA
-49,Female,NA,Chin,25/3/2020 ,25/3/2020 ,11/4/2020 ,NA,NA
-38,Male,NA,Yangon,23/3/2020 ,28/3/2020 ,12/4/2020 ,NA,NA
-29,Female,NA,Yangon,7/4/2020 ,10/4/2020 ,12/4/2020 ,NA,NA
-20,Male,NA,Yangon,8/4/2020 ,10/4/2020 ,12/4/2020 ,NA,NA
-24,Male,NA,Yangon,8/4/2020 ,10/4/2020 ,12/4/2020 ,NA,NA
-33,Male,NA,Yangon,8/4/2020 ,10/4/2020 ,12/4/2020 ,NA,NA
-44,Male,NA,Yangon,8/4/2020 ,10/4/2020 ,12/4/2020 ,NA,NA
-78,Female,NA,Yangon,26/3/2020 ,10/4/2020 ,12/4/2020 ,NA,NA
-85,Male,NA,Yangon,12/4/2020 ,12/4/2020 ,12/4/2020 ,NA,NA
+age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
+36,Male,United States,NA,Chin,15/3/20,21/3/20,23/3/20,NA,NA
+26,Male,United Kingdom,NA,Yangon,22/3/20,23/3/20,23/3/20,NA,NA
+26,Male,United Kingdom,NA,Yangon,21/3/20,23/3/20,25/3/20,NA,NA
+33,Male,United States of America,NA,Yangon,19/3/20,25/3/20,27/3/20,NA,8/4/20
+69,Male,Australia -> Singapore,NA,Yangon,14/3/20,25/3/20,27/3/20,31/3/20,NA
+29,Male,United Kingdom,NA,Yangon,21/3/20,26/3/20,28/3/20,NA,NA
+58,Female,Switzerland,NA,Nay Pyi Taw,18/3/20,26/3/20,28/3/20,NA,8/4/20
+60,Female,NA,1,Yangon,25/3/20,26/3/20,28/3/20,NA,NA
+44,Male,Thailand,NA,Yangon,23/3/20,26/3/20,29/3/20,NA,NA
+45,Male,NA,1,Yangon,28/3/20,28/3/20,29/3/20,NA,NA
+66,Female,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,NA
+65,Male,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,NA
+61,Female,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,NA
+24,Male,Thailand,NA,Shan,25/3/20,28/3/20,30/3/20,NA,NA
+45,Female,NA,1,Yangon,27/3/20,30/3/20,30/3/20,NA,NA
+63,Female,NA,0,Yangon,15/3/20,31/3/20,1/4/20,8/4/20,NA
+47,Male,NA,1,Bago,30/3/20,31/3/20,2/4/20,8/4/20,NA
+10,Male,NA,1,Bago,30/3/20,31/3/20,2/4/20,NA,NA
+8,Female,NA,1,Bago,30/3/20,31/3/20,2/4/20,NA,NA
+18,Female,NA,1,Bago,30/3/20,31/3/20,2/4/20,NA,NA
+24,Female,United States -> South Korea -> Thailand,NA,Yangon,26/3/20,26/3/20,4/4/20,NA,NA
+51,Female,United States -> South Korea -> Thailand,NA,Yangon,26/3/20,5/4/20,6/4/20,NA,NA
+58,Female,United States,NA,Chin,15/3/20,23/3/20,9/4/20,NA,NA
+32,Male,Singapore,NA,Yangon,19/3/20,8/4/20,10/4/20,NA,NA
+55,Male,NA,0,Yangon,9/4/20,9/4/20,10/4/20,NA,NA
+56,Female,NA,0,Yangon,8/4/20,8/4/20,10/4/20,NA,NA
+24,Female,Thailand,NA,Mon,20/3/20,30/3/20,10/4/20,NA,NA
+63,Male,NA,1,Yangon,28/3/20,28/3/20,10/4/20,NA,NA
+26,Male,United Kingdom,NA,Shan,28/3/20,28/3/20,11/4/20,NA,NA
+58,Female,NA,1,Yangon,8/4/20,8/4/20,11/4/20,NA,NA
+49,Female,NA,1,Chin,25/3/20,25/3/20,11/4/20,NA,NA
+38,Male,NA,0,Yangon,23/3/20,28/3/20,12/4/20,NA,NA
+29,Female,NA,0,Yangon,7/4/20,10/4/20,12/4/20,NA,NA
+20,Male,NA,0,Yangon,8/4/20,10/4/20,12/4/20,NA,NA
+24,Male,NA,0,Yangon,8/4/20,10/4/20,12/4/20,NA,NA
+33,Male,NA,0,Yangon,8/4/20,10/4/20,12/4/20,NA,NA
+44,Male,NA,0,Yangon,8/4/20,10/4/20,12/4/20,NA,NA
+78,Female,NA,0,Yangon,26/3/20,10/4/20,12/4/20,NA,NA
+85,Male,NA,1,Yangon,12/4/20,12/4/20,12/4/20,NA,NA
