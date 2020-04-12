@@ -1,27 +1,30 @@
  ## Development Note
  
  ### As of 01/04/2020,  
- went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
+ I went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
  
  ### As of 01/04/2020,  
- added case timelines bar graph
+ Case timelines bar plots are added.
  
  ### As of 02/04/2020,  
- added infection spread trend line graph
+ Infection spread trend line plot is added.
 
  ### As of 02/04/2020,  
- added total cases and daily new case bar graphs
+ - Total cases and 
+ - daily new case vartical bar plots are added.
  
  ### As of 08/04/2020,  
- after 3 patients passed away, mortality bar plot and confirmed patient's status stacked area chart are added
+ After 3 patients had passed away, 
+ - mortality simple bar plot and 
+ - confirmed patient's status stacked area chart are added.
 
  ### As of 09/04/2020,  
- added a radar plot to see which underlying immuno compromising conditions the expired patients have
+ Radar plot to see which underlying _immuno compromising_ conditions the expired patients had is added.
  
  ### As of 10/04/2020,  
- solved the timezone conflict
+ The timezone conflict from footnote 5 is now solved.  
     <br>
- Somedays there are no announcement but the timelines have to keep counting so, I moved from using the last announced day 
+ Somedays there are no announcement but the timelines have to keep counting so, I previously moved from using the last announced day. 
  
  ~~~~ 
 df["ann_date"].max() 
@@ -37,7 +40,7 @@ df["ann_date"].max()
  
   <br>
  The thing is when you call "today" in python, it calls for UTC today without the UTC tag.
- So "today" problem is solved by using 
+ So "today" problem is solved by using, 
  
  ~~~~
  pd.to_datetime("today").tz_localize("UTC")
@@ -48,13 +51,13 @@ df["ann_date"].max()
 ~~~~
 
  The code goes 
- - I call "today"
- - I declare that "today" is in "UTC"
+ - I call "today".
+ - I declare that "today" is in "UTC".
  - I convert the "UTC" today to "MMT" today.
   <br>
  Then I need to declare the date data in the dataset as a timezone, so that I can find the difference between the two or such operations.
   <br>
- They were declared using 
+ They were declared using, 
  
  ~~~~
  df["ann_date"].dtype
@@ -70,12 +73,12 @@ df["ann_date"].max()
  ~~~~
  
  The code goes 
- - That column of the dataframe is in "datetime" format
- - But the values are not "UTC"
- - I declare that values are in "MMT"
+ - That column of the dataframe is in "datetime" format.
+ - But the values are not "UTC".
+ - I declare that values are in "MMT".
  
  ### As of 12/04/2020,  
- I personally retract the previous statement that Myanmar Government and MOHS does not supply complete and open dataset. As an outsider, I can see they are trying. Not the best of course, but as a Burmese, I am content enough to say bravo. ( I don't know, may be I have been disappointed so much in the past ). 
+ I personally retract the previous statement that Myanmar Government and MOHS does not supply complete and open dataset. As an outsider, I can see they are trying. Not the best of course, but as a Burmese, I am content enough to say bravo. I don't know, may be I have been disappointed so much in the past. Stockholms, Darlings.   
  Anyhow, today I built a new dataset from the situation reports. It is for the quarantine centers and number of people quarantined and under investigation around the country. I built four visualizations in seven plots,
  - average number of people quarantined at a centre
  - number of people quarantined in a state or admininstrative region
