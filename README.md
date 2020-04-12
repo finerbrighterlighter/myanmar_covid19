@@ -78,7 +78,7 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Underlying conditions of the expired patients
 
-<img src="/underlying/12-04-2020_underlying.svg" alt=" " width="350"/>
+<img src="/underlying/12-04-2020_underlying.svg" alt=" " width="450"/>
 
 ## Mortality Rate
 
