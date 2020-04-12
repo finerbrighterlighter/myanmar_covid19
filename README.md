@@ -130,7 +130,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  27 | Thailand | 20-3-2020 | Stomach Pain | was not on quarantine until the symptoms
  29 | United Kingdom | 28-3-2020 | NA | was on community quarantine since he landed in the country
  
- Footnote 3 : They have history of travel to high risk area, however way longer than 14 or 28 days ago at the time of test confirmation. The visualizations consider them as local spread nonetheless.
+ Footnote 3 : These patients have history of travel to high risk area, however way longer than 14 or 28 days ago at the time of test confirmation. The visualizations consider them as local spread nonetheless.
  
   Case | Travel History | Date of Arrival | Symptoms | Remarks
  -|-|-|-|-
