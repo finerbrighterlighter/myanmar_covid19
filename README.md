@@ -232,5 +232,5 @@ df["ann_date"].max()
  Here is a non-related story.
  Today a medical personnel (case_30) is disgnosed __positive__ for COVID-19.   
  There was a need to insert a tracheal tube for the patient (case_17) who was having laryngospasm and couldn't breath. The hospital was not supplied enough to have a video laryngoscope and Dr. Myint Myint Sein (Anaesthesiologist) made a decision to insert __without her PPE__ for better vision.   
- Of course, the decision was __medically stupid__ and she knew what she was getting into. However, shit like these are always what make the __burmese people get attached to Burma__. The governments suck, the people are stupid, but always they are stupid for a belief and brave enough to be stupid for that. They meet shit head on. Shits like these, always make me embarassed I was granted the same __"Dr."__ prefix of those people. I never had their heart.   
+ Of course, the decision was __medically stupid__ and she knew what she was getting into. However, shit like these are always what make the __burmese people get attached to Burma__. The governments suck, the people are stupid, but always they are stupid for a cause and brave enough to stand for it. They meet shit head on. Shits like these, always make me embarassed I was granted the same __"Dr."__ prefix of those people. I never had their heart.   
  Hope she gets better. 
