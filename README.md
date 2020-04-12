@@ -130,7 +130,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  27 | Thailand | 20-3-2020 | Stomach Pain | was not on quarantine until the symptoms
  29 | United Kingdom | 28-3-2020 | NA | was on community quarantine since he landed in the country
  
- Footnote 3 : They have history of travel to high risk area, however way longer than 14 or 28 days ago at the time of test confirmation. The visualizations consider them as local spread nonetheless.
+ Footnote 3 : These patients have history of travel to high risk area, however way longer than 14 or 28 days ago at the time of test confirmation. The visualizations consider them as local spread nonetheless.
  
   Case | Travel History | Date of Arrival | Symptoms | Remarks
  -|-|-|-|-
@@ -139,84 +139,3 @@ Natural log makes it better in terms of visualization and long term comparison, 
  Footnote 4 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
  
  Footnote 5 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
- ### Development Note
- 
- As of 01/04/2020,
- went through a major revision for dataset as well as the codings. Now the model use the announcement data exclusively and previous exponential models are now obselete.
- 
- As of 01/04/2020,
- added case timelines bar graph
- 
- As of 02/04/2020,
- added infection spread trend line graph
-
- As of 02/04/2020,
- added total cases and daily new case bar graphs
- 
- As of 08/04/2020,
- after 3 patients passed away, mortality bar plot and confirmed patient's status stacked area chart are added
-
- As of 09/04/2020,
- added a radar plot to see which underlying immuno compromising conditions the expired patients have
- 
- As of 10/04/2020,
- solved the timezone conflict
-    <br>
- Somedays there are no announcement but the timelines have to keep counting so, I moved from using the last announced day 
- 
- ~~~~ 
-df["ann_date"].max() 
- > Timestamp('2020-04-10 00:00:00')
- ~~~~ 
- 
- to using today. 
- 
- ~~~~ 
- pd.to_datetime("today") 
- > Timestamp('2020-04-10 16:21:41.892917')
- ~~~~ 
- 
-  <br>
- The thing is when you call "today" in python, it calls for UTC today without the UTC tag.
- So "today" problem is solved by using 
- 
- ~~~~
- pd.to_datetime("today").tz_localize("UTC")
- > Timestamp('2020-04-10 16:24:45.897487+0000', tz='UTC')
- 
- pd.to_datetime("today").tz_localize("UTC").tz_convert("Asia/Yangon")
- > Timestamp('2020-04-10 22:55:46.877513+0630', tz='Asia/Yangon')
-~~~~
-
- The code goes 
- - I call "today"
- - I declare that "today" is in "UTC"
- - I convert the "UTC" today to "MMT" today.
-  <br>
- Then I need to declare the date data in the dataset as a timezone, so that I can find the difference between the two or such operations.
-  <br>
- They were declared using 
- 
- ~~~~
- df["ann_date"].dtype
- > datetime64[ns]
- 
- df["ann_date"] = pd.to_datetime(df["ann_date"].values, utc=True)
- df["ann_date"].dtype
- > datetime64[ns, UTC]
- 
- df["ann_date"] = pd.to_datetime(df["ann_date"].values, utc=False).tz_localize("Asia/Yangon")
- df["ann_date"].dtype
- > datetime64[ns, Asia/Yangon]
- ~~~~
- 
- The code goes 
- - That column of the dataframe is in "datetime" format
- - But the values are not "UTC"
- - I declare that values are in "MMT"
- 
