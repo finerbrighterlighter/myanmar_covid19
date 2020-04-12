@@ -54,6 +54,8 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ![](/case/12-04-2020_total_cases.svg)
 
+![](/case/12-04-2020_total_dist.svg)
+
 ## Confirmed Patients' Status
 
 ![](/status/12-04-2020_status.svg)
