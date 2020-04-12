@@ -19,7 +19,8 @@
  - confirmed patient's status stacked area chart are added.
 
  ### As of 09/04/2020,  
- Radar plot to see which underlying _immuno compromising_ conditions the expired patients had is added.
+ New dataset for underlying conditions of expired patients is built. ( expired_underlying.csv )   
+ Radar plot to see which underlying _immunocompromising_ conditions the expired patients had is added.
  
  ### As of 10/04/2020,  
  The timezone conflict from footnote 5 is now solved.  
@@ -79,7 +80,8 @@ df["ann_date"].max()
  
  ### As of 12/04/2020,  
  I personally retract the previous statement that Myanmar Government and MOHS does not supply complete and open dataset. As an outsider, I can see they are trying. Not the best of course, but as a Burmese, I am content enough to say bravo. I don't know, may be I have been disappointed so much in the past. Stockholms, Darlings.   
- Anyhow, today I built a new dataset from the situation reports. It is for the quarantine centers and number of people quarantined and under investigation around the country. I built four visualizations in seven plots,
+ Anyhow, today I built a new dataset from the situation reports. ( community_qua.csv )   
+ It is for the quarantine centers and number of people quarantined and under investigation around the country. I built four visualizations in seven plots,
  - average number of people quarantined at a centre
  - number of people quarantined in a state or admininstrative region
  - number of quarantine centres in a state or admininstrative region
@@ -90,4 +92,8 @@ df["ann_date"].max()
  Today a medical personnel (case_30) is disgnosed __positive__ for COVID-19.   
  There was a need to insert a tracheal tube for the patient (case_17) who was having laryngospasm and couldn't breath. The hospital was not supplied enough to have a video laryngoscope and Dr. Myint Myint Sein (Anaesthesiologist) made a decision to insert __without her PPE__ for better vision.   
  Of course, the decision was __medically stupid__ and she knew what she was getting into. However, shit like these are always what make the __burmese people get attached to Burma__. The governments suck, the people are stupid, but always they are stupid for a cause and brave enough to stand for it. They meet shit head on. Shits like these, always make me embarassed I was granted the same __"Dr."__ prefix of those people. I never had their heart.   
- Hope she gets better. 
+ Hope she gets better.
+ 
+  ### As of 12/04/2020,
+  Donut chart to see the distribution of virus spread is added.  
+  Local Spread is specified into known and unknown contacts for vertical bar plot and the donut chart.
