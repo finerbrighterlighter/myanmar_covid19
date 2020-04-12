@@ -41,7 +41,7 @@ df["ann_date"].max()
   <br>
  The thing is when you call "today" in python, it calls for UTC today without the UTC tag.
  So "today" problem is solved by using, 
- 
+   
  ~~~~
  pd.to_datetime("today").tz_localize("UTC")
  > Timestamp('2020-04-10 16:24:45.897487+0000', tz='UTC')
@@ -50,7 +50,7 @@ df["ann_date"].max()
  > Timestamp('2020-04-10 22:55:46.877513+0630', tz='Asia/Yangon')
 ~~~~
 
- The code goes 
+ The code goes,   
  - I call "today".
  - I declare that "today" is in "UTC".
  - I convert the "UTC" today to "MMT" today.
@@ -58,7 +58,7 @@ df["ann_date"].max()
  Then I need to declare the date data in the dataset as a timezone, so that I can find the difference between the two or such operations.
   <br>
  They were declared using, 
- 
+   
  ~~~~
  df["ann_date"].dtype
  > datetime64[ns]
@@ -71,8 +71,8 @@ df["ann_date"].max()
  df["ann_date"].dtype
  > datetime64[ns, Asia/Yangon]
  ~~~~
- 
- The code goes 
+   
+ The code goes,   
  - That column of the dataframe is in "datetime" format.
  - But the values are not "UTC".
  - I declare that values are in "MMT".
