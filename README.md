@@ -56,10 +56,6 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 <img src="/case/13-04-2020_total_dist.svg" alt=" " width="350"/>
 
-## Confirmed Patients' Status
-
-![](/status/13-04-2020_status.svg)
-
 ## New Cases by day
 
 ![](/case/13-04-2020_new_cases.svg)
@@ -67,6 +63,10 @@ Source - Wikipedia, MOHS Situation Reports <br>
 ## Infection Spread Trend
 
 ![](/spread/13-04-2020_spread.svg)
+
+## Confirmed Patients' Status
+
+![](/status/13-04-2020_status.svg)
 
 ## Days taken to be announced positive 
 
