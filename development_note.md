@@ -93,5 +93,5 @@ df["ann_date"].max()
  Hope she gets better.
  
   ### As of 12/04/2020,
-  Donut chart to see the distribution of virus spread is added.
+  Donut chart to see the distribution of virus spread is added.  
   Local Spread is specified into known and unknown contacts for vertical bar plot and the donut chart.
