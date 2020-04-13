@@ -92,7 +92,7 @@ This data is based on [MOHS situation reports](https://mohs.gov.mm/Main/content/
 
 ### Average number of people quarantined in a center
 
-![](/qua_ppl/11=3-04-2020_qua_ppl_cen.svg)
+![](/qua_ppl/13-04-2020_qua_ppl_cen.svg)
 
 | per region | distribution across country |
 |-|-|
