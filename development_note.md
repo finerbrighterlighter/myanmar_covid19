@@ -78,9 +78,8 @@ df["ann_date"].max()
  - But the values are not "UTC".
  - I declare that values are in "MMT".
  
- ### As of 12/04/2020,  
- I personally retract the previous statement that Myanmar Government and MOHS does not supply complete and open dataset. As an outsider, I can see they are trying. Not the best of course, but as a Burmese, I am content enough to say bravo. I don't know, may be I have been disappointed so much in the past. Stockholms, Darlings.   
- Anyhow, today I built a new dataset from the situation reports. ( community_qua.csv )   
+ ### As of 12/04/2020,   
+ I built a new dataset from the situation reports. ( community_qua.csv )   
  It is for the quarantine centers and number of people quarantined and under investigation around the country. I built four visualizations in seven plots,
  - average number of people quarantined at a centre
  - number of people quarantined in a state or admininstrative region
