@@ -140,15 +140,15 @@ Natural log makes it better in terms of visualization and long term comparison, 
  -|-|-|-|-
  32 | People's Republic of China | Approximately January 2020 | Fever, Cough | Symptoms appear on 23-3-2020
  
- Footnote 4 : These patients are considered a clustered infection. The visualizations consider them as local spread ( Unknown contact ) nonetheless.
+ Footnote 4 : These patients are considered a clustered infection. Unless specified, The visualizations consider them as local spread ( Unknown contact ) nonetheless.
  
- Case | Cluster | Remarks
- -|-|-
- 34 | Religion Cluster ( Insein ) | says they had foreigners in the praying session
- 35 | Religion Cluster ( Insein ) | says they had foreigners in the praying session
- 36 | Religion Cluster ( Insein ) | says they had foreigners in the praying session
- 37 | Religion Cluster ( Insein ) | says they had foreigners in the praying session
- 41 | Religion Cluster ( Insein ) | says they had foreigners in the praying session
+ Case | Cluster | Contact | Date of Cluster | Remarks
+ -|-|-|-|-
+ 34 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 35 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 36 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 37 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 41 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
  
  Footnote 5 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
  
