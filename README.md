@@ -52,39 +52,39 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Total Cases
 
-![](/case/13-04-2020_total_cases.svg)
+![](/case/14-04-2020_total_cases.svg)
 
-<img src="/case/13-04-2020_total_dist.svg" alt=" " width="350"/>
+<img src="/case/14-04-2020_total_dist.svg" alt=" " width="350"/>
 
 ## New Cases by day
 
-![](/case/13-04-2020_new_cases.svg)
+![](/case/14-04-2020_new_cases.svg)
 
 ## Infection Spread Trend
 
-![](/spread/13-04-2020_spread.svg)
+![](/spread/14-04-2020_spread.svg)
 
 [This](http://nc.covidmyanmar.com) is recommended to see more comprehensive visualization for network of infection spread among the confirmed patients. It is built and maintained by Dr. Nyein Chan Ko Ko.
 
 ## Confirmed Patients' Status
 
-![](/status/13-04-2020_status.svg)
+![](/status/14-04-2020_status.svg)
 
 ## Days taken to be announced positive 
 
-![](/timelines/13-04-2020_time_for_action.svg)
+![](/timelines/14-04-2020_time_for_action.svg)
 
 ## Current Timeline 
 
-![](/timelines/13-04-2020_timeline.svg)
+![](/timelines/14-04-2020_timeline.svg)
 
 ## Underlying conditions of the expired patients
 
-<img src="/underlying/13-04-2020_underlying.svg" alt=" " width="650"/>
+<img src="/underlying/14-04-2020_underlying.svg" alt=" " width="650"/>
 
 ## Mortality Rate
 
-![](/mortality/13-04-2020_exp.svg)
+![](/mortality/14-04-2020_exp.svg)
 
 ## Community Quarantines and People under investigations
 
@@ -121,7 +121,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  | Linear Scale | Logarithmic Scale |
  |-|-|
-  |![](/plots_after_revision/13-04-2020_real.svg)|![](/plots_after_revision/13-04-2020_log.svg)|
+  |![](/plots_after_revision/14-04-2020_real.svg)|![](/plots_after_revision/14-04-2020_log.svg)|
  
  Footnote 1 : My previous dataset states that case01 entered the country on 13-3-2020, while the paitent merely left United States on the day. He actually entered the country on 15-3-2020. While the dataset has been corrected, which means the previous plots, might have representations of erroneous data.
  
@@ -153,3 +153,5 @@ Natural log makes it better in terms of visualization and long term comparison, 
  Footnote 5 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
  
  Footnote 6 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
+ 
+ Footnote 7 : From case42 to 62, MOHS decided to blind the infection and contact history of the cases.
