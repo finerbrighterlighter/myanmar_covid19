@@ -58,7 +58,7 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## New Cases by day
 
-![](/case/17 days comparison.svg)
+![](/compared/17 days comparison.svg)
 
 ## New Cases growth compared with high mortality countries
 ### United States, Italy, Spain, France, United Kingdom
@@ -154,6 +154,12 @@ Natural log makes it better in terms of visualization and long term comparison, 
  36 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
  37 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
  41 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 56 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 57 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 58 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 59 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 60 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+ 61 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
  
  Footnote 5 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
  
