@@ -51,7 +51,7 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 41,Male,NA,"case_24, husband of case_34",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 49,Male,NA,"case_24, husband of case_35",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 40,Female,NA,"case_24, husband of case_36",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-31,Male,NA,0,Yangon,20/3/20,29/3/20,14/4/20,NA,NA
+31,Male,NA,0,Yangon,29/3/20,30/3/20,14/4/20,NA,NA
 7,Female,NA,"case_34,35,36,37,41",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 40,Male,NA,"case_34,35,36,37,41",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 33,Female,NA,"case_34,35,36,37,41,54,55,56,57",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
