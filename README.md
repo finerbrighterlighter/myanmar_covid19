@@ -58,7 +58,7 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## New Cases by day
 
-![](/compared/17 days comparison.svg)
+![](/compared/17&nbsp;days&nbsp;comparison.svg)
 
 ## New Cases growth compared with high mortality countries
 ### United States, Italy, Spain, France, United Kingdom
