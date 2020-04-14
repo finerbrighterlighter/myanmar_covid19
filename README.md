@@ -58,12 +58,12 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## New Cases by day
 
-![](/compared/17&nbsp;days&nbsp;comparison.svg)
+![](/case/14-04-2020_new_cases.svg)
 
 ## New Cases growth compared with high mortality countries
 ### United States, Italy, Spain, France, United Kingdom
 
-![](/compared/14-04-2020_new_cases.svg)
+![](/compared/17_days_comparison.svg)
 
 ## Infection Spread Trend
 
