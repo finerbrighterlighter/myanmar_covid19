@@ -63,7 +63,7 @@ Source - Wikipedia, MOHS Situation Reports <br>
 ## New Cases growth compared with high mortality countries
 ### United States, Italy, Spain, France, United Kingdom
 
-![](/compared/15-04-2020_new_cases_comparison.svg)
+![](/compared/15-04-2020_comparison.svg)
 
 ## Infection Spread Trend
 
@@ -164,5 +164,3 @@ Natural log makes it better in terms of visualization and long term comparison, 
  Footnote 5 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
  
  Footnote 6 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
- 
- Footnote 7 : From case42 to 62, MOHS decided to blind the infection and contact history of the cases.
