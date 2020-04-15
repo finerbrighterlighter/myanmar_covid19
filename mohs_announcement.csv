@@ -40,17 +40,17 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 85,Male,NA,0,Yangon,11/4/20,11/4/20,12/4/20,12/4/20,NA
 68,Female,NA,case_28,Yangon,28/3/20,12/4/20,13/4/20,NA,NA
 38,Male,NA,case_24,Yangon,6/4/20,12/4/20,13/4/20,NA,NA
-43,Female,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-41,Female,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-32,Female,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-54,Male,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-44,Male,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-50,Female,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-31,Male,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-35,Male,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-41,Male,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-49,Male,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-40,Female,NA,"case_24, husband of case_26",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+43,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+41,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+32,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+54,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+44,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+50,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+31,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+35,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+41,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+49,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+40,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 31,Male,NA,0,Yangon,29/3/20,30/3/20,14/4/20,NA,NA
 7,Female,NA,"case_34,35,36,37,41",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 40,Male,NA,"case_34,35,36,37,41",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
