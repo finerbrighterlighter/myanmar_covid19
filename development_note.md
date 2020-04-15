@@ -96,3 +96,7 @@ df["ann_date"].max()
   ### As of 12/04/2020,
   Donut chart to see the distribution of virus spread is added.  
   Local Spread is specified into known and unknown contacts for vertical bar plot and the donut chart.
+  
+  ### As of 12/04/2020,
+  I added a visualisation to compare the infection case growth between Myanmar and other high mortality countries on basic of days since first confirmed case.
+  The dataset for other countries is grabbed from [JHU time series dataset](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases).
