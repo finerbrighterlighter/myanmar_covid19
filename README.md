@@ -149,7 +149,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
 Cluster | Cases | Suspected spreader
  -|-|-
-Religious Cluster ( Hebron Brethren Assembly ) |  Case 34,35,36,37,41,42,43,45,46,47,48,49,50,51,52,54,55,56,57,58,59,60,61 | Case 24 attended the cluster before identified
+Religious Cluster ( Hebron Brethren Assembly ) |  Case 34,35,36,37,41,42, 43,45,46,47,48,49, 50,51,52,54,55,56, 57,58,59,60,61 | Case 24 attended the cluster before identified
  
  Footnote 5 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
  
