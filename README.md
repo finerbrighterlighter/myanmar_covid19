@@ -97,13 +97,13 @@ This data is based on [MOHS situation reports](https://mohs.gov.mm/Main/content/
 
 ### Average number of people quarantined in a center
 
-![](/qua_ppl/13-04-2020_qua_ppl_cen.svg)
+![](/qua_ppl/16-04-2020_qua_ppl_cen.svg)
 
 | per region | distribution across country |
 |-|-|
-|![](/qua_ppl/13-04-2020_qua_ppl_reg.svg)|![](/qua_ppl/13-04-2020_qua_ppl_dis.svg)|
-|![](/qua_cen/13-04-2020_qua_cen_reg.svg)|![](/qua_cen/13-04-2020_qua_cen_dis.svg)|
-|![](/pui/13-04-2020_pui_reg.svg)|![](/pui/13-04-2020_pui_dis.svg)|
+|![](/qua_ppl/16-04-2020_qua_ppl_reg.svg)|![](/qua_ppl/16-04-2020_qua_ppl_dis.svg)|
+|![](/qua_cen/16-04-2020_qua_cen_reg.svg)|![](/qua_cen/16-04-2020_qua_cen_dis.svg)|
+|![](/pui/16-04-2020_pui_reg.svg)|![](/pui/16-04-2020_pui_dis.svg)|
 
 
 # Model of choice
@@ -147,19 +147,9 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  Footnote 4 : These patients are considered a clustered infection. Unless specified, The visualizations consider them as local spread ( Unknown contact ) nonetheless.
  
- Case | Cluster | Contact | Date of Cluster | Remarks
- -|-|-|-|-
- 34 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 35 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 36 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 37 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 41 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 56 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 57 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 58 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 59 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 60 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
- 61 | Religion Cluster ( Hebron Brethren Assembly ) | case24 | 6-4-2020 | says they had foreigners in the praying session
+Cluster | Cases | Suspected spreader
+ -|-|-
+Religious Cluster ( Hebron Brethren Assembly ) |  Case 34, 35, 36, 37, 41, 42, 43, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61 | Case 24 attended the cluster before being identified
  
  Footnote 5 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
  
