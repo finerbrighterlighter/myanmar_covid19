@@ -84,6 +84,6 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 63,Male,Singapore,NA,Yangon,14/4/20,14/4/20,16/4/20,NA,NA
 40,Male,NA,0,Yangon,14/4/20,14/4/20,16/4/20,NA,NA
 77,Male,NA,0,Yangon,14/4/20,14/4/20,16/4/20,NA,NA
-,,,,Yangon,,,17/4/20,NA,NA
-,,,,Yangon,,,17/4/20,NA,NA
-,,,,Chin,,,17/4/20,NA,NA
+,,,0,Yangon,,,17/4/20,NA,NA
+,,,0,Yangon,,,17/4/20,NA,NA
+,,,0,Chin,,,17/4/20,NA,NA
