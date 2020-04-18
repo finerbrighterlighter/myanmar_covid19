@@ -73,23 +73,23 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Confirmed Patients' Status
 
-![](/status/17-04-2020_status.svg)
+![](/status/18-04-2020_status.svg)
 
 ## Days taken to be announced positive 
-**TIMELINES ARE LIKELY TO BE DEPRACATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
+**TIMELINES ARE LIKELY TO BE DEPRECATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
 ![](/timelines/16-04-2020_time_for_action.svg)
 
 ## Current Timeline 
-**TIMELINES ARE LIKELY TO BE DEPRACATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
+**TIMELINES ARE LIKELY TO BE DEPRECATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
 ![](/timelines/16-04-2020_timeline.svg)
 
 ## Underlying conditions of the expired patients
 
-<img src="/underlying/17-04-2020_underlying.svg" alt=" " width="650"/>
+<img src="/underlying/18-04-2020_underlying.svg" alt=" " width="650"/>
 
 ## Mortality Rate
 
-![](/mortality/17-04-2020_exp.svg)
+![](/mortality/18-04-2020_exp.svg)
 
 ## Community Quarantines and People under investigations
 
