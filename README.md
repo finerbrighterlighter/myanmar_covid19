@@ -71,6 +71,10 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 [This](http://nc.covidmyanmar.com) is recommended to see more comprehensive visualization for network of infection spread among the confirmed patients. It is built and maintained by Dr. Nyein Chan Ko Ko.
 
+## Age distribution of Confirmed Patients
+
+![](/age/18-04-2020_age.svg)
+
 ## Confirmed Patients' Status
 
 ![](/status/18-04-2020_status.svg)
