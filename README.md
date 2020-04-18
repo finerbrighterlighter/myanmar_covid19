@@ -63,7 +63,7 @@ Source - Wikipedia, MOHS Situation Reports <br>
 ## New Cases growth compared with high mortality countries
 ### United States, Italy, Spain, France, United Kingdom
 
-![](/compared/17-04-2020_comparison.svg)
+![](/compared/18-04-2020_comparison.svg)
 
 ## Infection Spread Trend
 
@@ -77,11 +77,11 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Days taken to be announced positive 
 **TIMELINES ARE LIKELY TO BE DEPRECATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
-![](/timelines/16-04-2020_time_for_action.svg)
+![](/timelines/18-04-2020_time_for_action.svg)
 
 ## Current Timeline 
 **TIMELINES ARE LIKELY TO BE DEPRECATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
-![](/timelines/16-04-2020_timeline.svg)
+![](/timelines/18-04-2020_timeline.svg)
 
 ## Underlying conditions of the expired patients
 
