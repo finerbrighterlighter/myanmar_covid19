@@ -72,7 +72,7 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 32,Female,NA,"case_8,28,40",Yangon,13/4/20,13/4/20,15/4/20,NA,NA
 27,Female,NA,case_73,Yangon,13/4/20,13/4/20,15/4/20,NA,NA
 29,Female,NA,"case_54->61,64,80,81",Yangon,13/4/20,13/4/20,15/4/20,NA,NA
-63,Female,NA,case_1,Chin,24/3/20,24/3/20,15/4/20,NA,NA
+63,Female,NA,case_1,Sagaing,24/3/20,24/3/20,15/4/20,NA,NA
 35,Female,NA,case_24,Yangon,14/4/20,14/4/20,16/4/20,NA,NA
 20,Male,NA,case_24,Yangon,16/4/20,16/4/20,16/4/20,NA,NA
 33,Female,NA,case_24,Yangon,16/4/20,16/4/20,16/4/20,NA,NA
