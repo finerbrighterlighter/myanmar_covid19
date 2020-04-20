@@ -101,13 +101,13 @@ This data is based on [MOHS situation reports](https://mohs.gov.mm/Main/content/
 
 ### Average number of people quarantined in a center
 
-![](/qua_ppl/19-04-2020_qua_ppl_cen.svg)
+![](/qua_ppl/20-04-2020_qua_ppl_cen.svg)
 
 | per region | distribution across country |
 |-|-|
-|![](/qua_ppl/19-04-2020_qua_ppl_reg.svg)|![](/qua_ppl/19-04-2020_qua_ppl_dis.svg)|
-|![](/qua_cen/19-04-2020_qua_cen_reg.svg)|![](/qua_cen/19-04-2020_qua_cen_dis.svg)|
-|![](/pui/19-04-2020_pui_reg.svg)|![](/pui/19-04-2020_pui_dis.svg)|
+|![](/qua_ppl/20-04-2020_qua_ppl_reg.svg)|![](/qua_ppl/20-04-2020_qua_ppl_dis.svg)|
+|![](/qua_cen/20-04-2020_qua_cen_reg.svg)|![](/qua_cen/20-04-2020_qua_cen_dis.svg)|
+|![](/pui/20-04-2020_pui_reg.svg)|![](/pui/20-04-2020_pui_dis.svg)|
 
 
 # Model of choice
@@ -149,12 +149,6 @@ Natural log makes it better in terms of visualization and long term comparison, 
  -|-|-|-|-
  32 | People's Republic of China | Approximately January 2020 | Fever, Cough | Symptoms appear on 23-3-2020
  
- Footnote 4 : These patients are considered a clustered infection. Unless specified, The visualizations consider them as local spread ( Unknown contact ) nonetheless.
+ Footnote 4 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
  
-Cluster | Cases | Suspected spreader
- -|-|-
-Religious Cluster ( Hebron Brethren Assembly ) |  Case 34, 35, 36, 37, 41, 42, 43, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61 | Case 24 attended the cluster before being identified
- 
- Footnote 5 : For case24, 25, 26 and 27, MOHS made an unconventional announcement on 10/04/2020 3:00 MMT. The plots are all prefixed as {mid10-04-2020_} to avoid confusions with conventional 20:00 MMT announcement. Mad respects to all the lab technicians working hard at 3 in the morning. For the next days, non-8pm announcements are just titled the date, which gets replaced for every updates in the day.
- 
- Footnote 6 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
+ Footnote 5 : I just found out pd.to_datetime("today") assumes its timezone in UTC, which leads to my plots of 10/4/2020 3:00AM MMT {All svg files being prefixed as mid10-04-2020_} to be mistitled. <solved>
