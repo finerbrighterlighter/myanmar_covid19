@@ -110,11 +110,11 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 37,Male,NA,0,Yangon,19/4/20,19/4/20,19/4/20,NA,NA
 63,Male,NA,case_50,Yangon,19/4/20,19/4/20,19/4/20,NA,NA
 54,Female,NA,0,Yangon,19/4/20,19/4/20,19/4/20,NA,NA
-29,Female,NA,1,Shan (E),20/4/20,20/4/20,20/4/20,NA,NA
-65,Female,NA,1,Chin,20/4/20,20/4/20,20/4/20,NA,NA
-52,Male,NA,1,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
-19,Male,NA,1,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
-17,Male,NA,1,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
-10,Female,NA,1,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
-31,Female,NA,1,Bago,20/4/20,20/4/20,20/4/20,NA,NA
-31,Female,NA,1,Bago,20/4/20,20/4/20,20/4/20,NA,NA
+29,Female,NA,case_96,Shan (E),20/4/20,20/4/20,20/4/20,NA,NA
+65,Female,NA,case_78,Chin,20/4/20,20/4/20,20/4/20,NA,NA
+52,Male,NA,case_88,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
+19,Male,NA,case_88,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
+17,Male,NA,case_88,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
+10,Female,NA,case_88,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
+31,Female,NA,case_17,Bago,20/4/20,20/4/20,20/4/20,NA,NA
+31,Female,NA,case_17,Bago,20/4/20,20/4/20,20/4/20,NA,NA
