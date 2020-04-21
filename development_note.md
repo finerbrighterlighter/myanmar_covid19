@@ -104,3 +104,6 @@ df["ann_date"].max()
   ### As of 18/04/2020, 
   After one of the latest confirmed patients was a one and a half years old toddler,
 I finally have decided to drag my lazy ass out of Peaky Blinders and build a pyramid for age distribution.
+
+  ### As of 18/04/2020, 
+  The plot for comparing case growth in country with high mortality countries is transformed into comparing with regional neighbours. (ASEAN countries). It seems to make more sense. Also, mental note, from 150 confimred case, I should build another graph for days since 100th cummulative case to see if we are flattening the curve.
