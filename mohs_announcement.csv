@@ -118,3 +118,5 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 10,Female,NA,case_88,Sagaing,20/4/20,20/4/20,20/4/20,NA,NA
 31,Female,NA,case_17,Bago,20/4/20,20/4/20,20/4/20,NA,NA
 31,Female,NA,case_17,Bago,20/4/20,20/4/20,20/4/20,NA,NA
+21,Female,NA,0,Yangon,21/4/20,21/4/20,21/4/20,NA,NA
+21,Female,BLIND,NA,Shan (S),21/4/20,21/4/20,21/4/20,NA,NA
