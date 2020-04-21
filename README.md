@@ -56,6 +56,8 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 <img src="/case/21-04-2020_total_dist.svg" alt=" " width="500"/>
 
+[This](http://nc.covidmyanmar.com) is recommended to see more comprehensive visualization for network of infection spread among the confirmed patients. It is built and maintained by Dr. Nyein Chan Ko Ko.
+
 ## New Cases by day
 
 ![](/case/21-04-2020_new_cases.svg)
@@ -65,11 +67,6 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ![](/compared/21-04-2020_comparison.svg)
 
-## Infection Spread Trend
-
-![](/spread/21-04-2020_spread.svg)
-
-[This](http://nc.covidmyanmar.com) is recommended to see more comprehensive visualization for network of infection spread among the confirmed patients. It is built and maintained by Dr. Nyein Chan Ko Ko.
 
 ## Age distribution of Confirmed Patients
 
