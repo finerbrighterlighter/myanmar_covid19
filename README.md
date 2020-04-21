@@ -101,13 +101,13 @@ This data is based on [MOHS situation reports](https://mohs.gov.mm/Main/content/
 
 ### Average number of people quarantined in a center
 
-![](/qua_ppl/20-04-2020_qua_ppl_cen.svg)
+![](/qua_ppl/21-04-2020_qua_ppl_cen.svg)
 
 | per region | distribution across country |
 |-|-|
-|![](/qua_ppl/20-04-2020_qua_ppl_reg.svg)|![](/qua_ppl/20-04-2020_qua_ppl_dis.svg)|
-|![](/qua_cen/20-04-2020_qua_cen_reg.svg)|![](/qua_cen/20-04-2020_qua_cen_dis.svg)|
-|![](/pui/20-04-2020_pui_reg.svg)|![](/pui/20-04-2020_pui_dis.svg)|
+|![](/qua_ppl/21-04-2020_qua_ppl_reg.svg)|![](/qua_ppl/21-04-2020_qua_ppl_dis.svg)|
+|![](/qua_cen/21-04-2020_qua_cen_reg.svg)|![](/qua_cen/21-04-2020_qua_cen_dis.svg)|
+|![](/pui/21-04-2020_pui_reg.svg)|![](/pui/21-04-2020_pui_dis.svg)|
 
 
 # Model of choice
