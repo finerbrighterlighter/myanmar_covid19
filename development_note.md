@@ -111,3 +111,4 @@ I finally have decided to drag my lazy ass out of Peaky Blinders and build a pyr
   ### As of 22/04/2020,
   Cummulative case bar plot is transformed into line plot.
   Infection spread trend graph is merged into cummulative case line plot.
+  Days taken to be announced positive plot is now depracated due to insufficient release of patient history. RIP

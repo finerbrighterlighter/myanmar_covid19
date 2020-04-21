@@ -76,10 +76,6 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ![](/status/21-04-2020_status.svg)
 
-## Days taken to be announced positive 
-**TIMELINES ARE LIKELY TO BE DEPRECATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
-![](/timelines/21-04-2020_time_for_action.svg)
-
 ## Current Timeline 
 **TIMELINES ARE LIKELY TO BE DEPRECATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
 ![](/timelines/21-04-2020_timeline.svg)
