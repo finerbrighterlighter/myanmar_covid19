@@ -8,9 +8,9 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 58,Female,Switzerland,NA,Nay Pyi Taw,18/3/20,26/3/20,28/3/20,NA,8/4/20
 60,Female,NA,"case_11,12,13",Yangon,25/3/20,26/3/20,28/3/20,NA,NA
 44,Male,Thailand,NA,Yangon,23/3/20,26/3/20,29/3/20,NA,20/4/20
-45,Male,NA,case_5,Yangon,28/3/20,28/3/20,29/3/20,NA,NA
-66,Female,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,NA
-65,Male,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,NA
+45,Male,NA,case_5,Yangon,28/3/20,28/3/20,29/3/20,NA,21/4/20
+66,Female,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,21/4/20
+65,Male,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,21/4/20
 61,Female,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,NA
 24,Male,Thailand,NA,Shan (N),25/3/20,28/3/20,30/3/20,NA,NA
 45,Female,NA,International Medical Center,Yangon,27/3/20,30/3/20,30/3/20,NA,20/4/20
