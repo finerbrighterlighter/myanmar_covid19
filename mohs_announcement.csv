@@ -122,3 +122,7 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 21,Female,United Kingdom,NA,Shan (S),21/4/20,21/4/20,21/4/20,NA,NA
 28,Male,NA,case_84,Yangon,22/4/20,22/4/20,22/4/20,NA,NA
 18,Female,NA,case_108,Yangon,22/4/20,22/4/20,22/4/20,NA,NA
+45,Male,NA,case_89,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
+18,Male,NA,case_110,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
+47,Male,NA,case_87,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
+24,Female,NA,case_94,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
