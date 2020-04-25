@@ -126,10 +126,10 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 18,Male,NA,case_110,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
 47,Male,NA,case_87,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
 24,Female,NA,case_94,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
-54,Male,NA,1,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
-31,Female,NA,1,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
-65,Female,NA,1,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
-28,Female,NA,1,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
+54,Male,NA,case_8,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
+31,Female,NA,case_8,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
+65,Female,NA,case_9,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
+28,Female,NA,case_8,Yangon,23/4/20,23/4/20,23/4/20,NA,NA
 80,Male,NA,0,Mandalay,23/4/20,23/4/20,23/4/20,NA,NA
 45,Male,NA,case_79,Yangon,24/4/20,24/4/20,24/4/20,NA,NA
 35,Male,NA,"case_79,92,93",Yangon,24/4/20,24/4/20,24/4/20,NA,NA
