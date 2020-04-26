@@ -139,9 +139,9 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 53,Male,NA,case_93,Yangon,24/4/20,24/4/20,24/4/20,NA,NA
 26,Female,NA,"case_79,93",Yangon,24/4/20,24/4/20,24/4/20,NA,NA
 39,Female,NA,"Case_24,62",Yangon,24/4/20,24/4/20,24/4/20,NA,NA
-28,Male,NA,1,Yangon,24/4/20,24/4/20,24/4/20,NA,NA
+28,Male,NA,"case_34,35,36,37",Yangon,24/4/20,24/4/20,24/4/20,NA,NA
 25,Male,NA,"case_79,93",Yangon,24/4/20,24/4/20,24/4/20,NA,NA
-87,Female,Blind,NA,Shan (N),24/4/20,24/4/20,24/4/20,NA,NA
-24,Male,Blind,NA,Kachin,24/4/20,24/4/20,24/4/20,NA,NA
+87,Female,Dubai -> Thailand,NA,Shan (N),24/4/20,24/4/20,24/4/20,NA,NA
+24,Male,NA,0,Kachin,24/4/20,24/4/20,24/4/20,NA,NA
 48,Male,Blind,NA,Sagaing,26/4/20,26/4/20,26/4/20,NA,NA
 32,Male,NA,case_139,Yangon,26/4/20,26/4/20,26/4/20,NA,NA
