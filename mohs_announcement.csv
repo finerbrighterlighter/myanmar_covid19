@@ -149,3 +149,4 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 19,Male,NA,case_128,Yangon,28/4/20,28/4/20,28/4/20,NA,NA
 15,Male,NA,case_128,Yangon,28/4/20,28/4/20,28/4/20,NA,NA
 18,Female,China,NA,Chin,29/4/20,29/4/20,29/4/20,NA,NA
+25,Female,NA,0,Yangon,1/5/20,1/5/20,1/5/20,NA,NA
