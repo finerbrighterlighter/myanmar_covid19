@@ -1,12 +1,12 @@
 age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
-36,Male,United States,NA,Chin,15/3/20,21/3/20,23/3/20,NA,NA
-26,Male,United Kingdom,NA,Yangon,22/3/20,23/3/20,23/3/20,NA,NA
+36,Male,United States,NA,Chin,15/3/20,21/3/20,23/3/20,NA,30/4/20
+26,Male,United Kingdom,NA,Yangon,22/3/20,23/3/20,23/3/20,NA,1/5/20
 26,Male,United Kingdom,NA,Yangon,21/3/20,23/3/20,25/3/20,NA,20/4/20
 33,Male,United States of America,NA,Yangon,19/3/20,25/3/20,27/3/20,NA,8/4/20
 69,Male,Australia -> Singapore,NA,Yangon,14/3/20,25/3/20,27/3/20,31/3/20,NA
 29,Male,United Kingdom,NA,Yangon,21/3/20,26/3/20,28/3/20,NA,28/4/20
 58,Female,Switzerland,NA,Nay Pyi Taw,18/3/20,26/3/20,28/3/20,NA,8/4/20
-60,Female,NA,"case_11,12,13",Yangon,25/3/20,26/3/20,28/3/20,NA,NA
+60,Female,NA,"case_11,12,13",Yangon,25/3/20,26/3/20,28/3/20,NA,1/5/20
 44,Male,Thailand,NA,Yangon,23/3/20,26/3/20,29/3/20,NA,20/4/20
 45,Male,NA,case_5,Yangon,28/3/20,28/3/20,29/3/20,NA,21/4/20
 66,Female,France,NA,Yangon,28/3/20,28/3/20,30/3/20,NA,21/4/20
@@ -30,33 +30,33 @@ age,sex,travel,contact,region,first_date,qua_date,ann_date,exp_date,dsc_date
 26,Male,United Kingdom,NA,Shan (S),28/3/20,28/3/20,11/4/20,NA,28/4/20
 58,Female,NA,case_17,Yangon,8/4/20,8/4/20,11/4/20,NA,NA
 49,Female,NA,case_1,Chin,25/3/20,25/3/20,11/4/20,NA,NA
-38,Male,China,NA,Yangon,23/3/20,28/3/20,12/4/20,NA,NA
-29,Female,NA,0,Yangon,7/4/20,10/4/20,12/4/20,NA,NA
+38,Male,China,NA,Yangon,23/3/20,28/3/20,12/4/20,NA,1/5/20
+29,Female,NA,0,Yangon,7/4/20,10/4/20,12/4/20,NA,1/5/20
 20,Male,NA,case_36,Yangon,6/4/20,10/4/20,12/4/20,NA,NA
 24,Male,NA,case_36,Yangon,6/4/20,10/4/20,12/4/20,NA,NA
 33,Male,NA,case_36,Yangon,6/4/20,10/4/20,12/4/20,NA,NA
 44,Male,NA,case_36,Yangon,6/4/20,10/4/20,12/4/20,NA,NA
-78,Female,NA,0,Yangon,26/3/20,10/4/20,12/4/20,NA,NA
+78,Female,NA,0,Yangon,26/3/20,10/4/20,12/4/20,NA,1/5/20
 85,Male,NA,0,Yangon,11/4/20,11/4/20,12/4/20,12/4/20,NA
 68,Female,NA,case_28,Yangon,28/3/20,12/4/20,13/4/20,NA,NA
-38,Male,NA,case_24,Yangon,6/4/20,12/4/20,13/4/20,NA,NA
+38,Male,NA,case_24,Yangon,6/4/20,12/4/20,13/4/20,NA,1/5/20
 43,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 41,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 32,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 54,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 44,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-50,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+50,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,1/5/20
 31,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-35,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+35,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,1/5/20
 41,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 49,Male,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 40,Female,NA,"case_24, 63",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 31,Male,Thailand,NA,Yangon,29/3/20,30/3/20,14/4/20,NA,26/4/20
-7,Female,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+7,Female,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,1/5/20
 40,Male,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 33,Female,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 39,Female,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
-46,Female,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
+46,Female,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,1/5/20
 23,Female,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 39,Male,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
 38,Male,NA,"case_34,35,36,37",Yangon,14/4/20,14/4/20,14/4/20,NA,NA
