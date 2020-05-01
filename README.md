@@ -52,15 +52,15 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Total Cases
 
-![](/case/29-04-2020_total_cases.svg)
+![](/case/01-05-2020_total_cases.svg)
 
-<img src="/case/29-04-2020_total_dist.svg" alt=" " width="500"/>
+<img src="/case/01-05-2020_total_dist.svg" alt=" " width="500"/>
 
 [This](http://nc.covidmyanmar.com) is recommended to see more comprehensive visualization for network of infection spread among the confirmed patients. It is built and maintained by Dr. Nyein Chan Ko Ko.
 
 ## New Cases by day
 
-![](/case/29-04-2020_new_cases.svg)
+![](/case/01-05-2020_new_cases.svg)
 
 ## New Cases growth compared with Regional countries
 ### Association of South East Asian Countries (ASEAN) members
@@ -70,23 +70,23 @@ Source - Wikipedia, MOHS Situation Reports <br>
 
 ## Age distribution of Confirmed Patients
 
-![](/age/29-04-2020_age.svg)
+![](/age/01-05-2020_age.svg)
 
 ## Confirmed Patients' Status
 
-![](/status/29-04-2020_status.svg)
+![](/status/01-05-2020_status.svg)
 
 ## Current Timeline 
 **TIMELINES ARE LIKELY TO BE DEPRECATED IN FURTURE DAYS SINCE MOHS DECIDED TO BEING OPEN IS HARMFUL**
-![](/timelines/29-04-2020_timeline.svg)
+![](/timelines/01-05-2020_timeline.svg)
 
 ## Underlying conditions of the expired patients
 
-<img src="/underlying/29-04-2020_underlying.svg" alt=" " width="650"/>
+<img src="/underlying/01-05-2020_underlying.svg" alt=" " width="650"/>
 
 ## Mortality Rate
 
-![](/mortality/29-04-2020_exp.svg)
+![](/mortality/01-05-2020_exp.svg)
 
 ## Community Quarantines and People under investigations
 
@@ -123,7 +123,7 @@ Natural log makes it better in terms of visualization and long term comparison, 
  
  | Linear Scale | Logarithmic Scale |
  |-|-|
-  |![](/plots_after_revision/29-04-2020_real.svg)|![](/plots_after_revision/29-04-2020_log.svg)|
+  |![](/plots_after_revision/01-05-2020_real.svg)|![](/plots_after_revision/01-05-2020_log.svg)|
  
  Footnote 1 : My previous dataset states that case01 entered the country on 13-3-2020, while the paitent merely left United States on the day. He actually entered the country on 15-3-2020. While the dataset has been corrected, which means the previous plots, might have representations of erroneous data.
  
